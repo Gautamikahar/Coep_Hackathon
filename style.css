@@ -1,79 +1,49 @@
 body {
-  font-family: 'Inter', Arial, sans-serif;
-  background: #f4f6f9;
+  font-family: Arial, sans-serif;
+  background-color: #f0f2f5;
   margin: 0;
   padding: 0;
-  color: #222;
 }
 
-header {
-  background: linear-gradient(135deg, #003366, #0055aa);
-  color: white;
-  padding: 25px 15px;
-  text-align: center;
-  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
-}
-
-main {
-  padding: 25px;
-}
-
-.filters {
-  background: #fff;
-  border-radius: 12px;
-  padding: 20px;
-  margin: 0 auto 25px;
-  width: 85%;
-  max-width: 900px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
-  text-align: center;
-}
-
-.filters select, button {
-  padding: 8px 12px;
-  border-radius: 6px;
-  margin: 5px;
-}
-
-.kpi-cards {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  gap: 15px;
-  margin: 20px auto;
-}
-
-.kpi {
-  background: #fff;
-  padding: 15px 20px;
-  border-radius: 10px;
-  box-shadow: 0 3px 10px rgba(0,0,0,0.1);
-}
-
-.chart-container {
-  background: white;
+.container {
   width: 90%;
-  max-width: 800px;
-  margin: 25px auto;
-  padding: 20px;
-  border-radius: 12px;
-  box-shadow: 0 3px 10px rgba(0,0,0,0.1);
-}
-
-.recommendations, .summary-box {
-  background: white;
-  width: 90%;
-  max-width: 800px;
+  max-width: 700px;
   margin: 30px auto;
+  background: #fff;
   padding: 20px;
   border-radius: 10px;
-  box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 
-footer {
-  background: #003366;
+form {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+#chatContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-height: 500px;
+  overflow-y: auto;
+}
+
+.message {
+  padding: 10px 15px;
+  border-radius: 20px;
+  max-width: 80%;
+  word-wrap: break-word;
+}
+
+.user {
+  background-color: #007bff;
   color: white;
-  text-align: center;
-  padding: 10px;
+  align-self: flex-end;
 }
 
+.ai {
+  background-color: #e5e5ea;
+  color: black;
+  align-self: flex-start;
+}
