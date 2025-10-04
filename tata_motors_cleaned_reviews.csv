@@ -1,0 +1,601 @@
+platform,region,vehicle,raw_text,sentiment,feature,feature_sentiment,competitor,pain_point,opportunity,priority,rating
+ZigWheels,Lucknow,Safari,Spacious cabin and comfortable for long drives,Positive,Comfort & Space,Positive,Mahindra XUV700,Low Mileage,Feature Addition,MEDIUM,2.9
+CarDekho,Mumbai,Safari,Build quality feels rock solid,Positive,Build Quality,Positive,Mahindra XUV700,Spare Part Availability,Service Expansion,CRITICAL,2.8
+ZigWheels,Lucknow,Harrier,Service delays are frustrating,Negative,Service,Negative,Hyundai Alcazar,Infotainment Lag,Technology Upgrade,MEDIUM,3.2
+Twitter,Mumbai,Safari,Features are decent,Neutral,Technology & Infotainment,Neutral,MG Hector,Low Mileage,Service Expansion,MEDIUM,2.5
+Twitter,Hyderabad,Safari,Acceleration is sluggish,Negative,Performance,Negative,MG Hector,High Price,Pricing Adjustment,CRITICAL,1.3
+ZigWheels,Bangalore,Harrier,Bold looks and premium cabin,Positive,Design,Positive,MG Hector,Service Delay,Service Expansion,LOW,2.4
+Twitter,Pune,Safari,Great handling and smooth ride experience,Positive,Performance,Positive,Kia Seltos,Spare Part Availability,Service Expansion,LOW,3.8
+CarDekho,Hyderabad,Safari,Adequate space for daily use,Neutral,Comfort & Space,Neutral,MG Hector,High Price,Service Expansion,MEDIUM,3.4
+Twitter,Bangalore,Harrier,Loaded with modern features,Positive,Technology & Infotainment,Positive,Kia Seltos,Spare Part Availability,Technology Upgrade,MEDIUM,2.2
+Twitter,Bangalore,Harrier,After sales service is disappointing,Negative,Service,Negative,Hyundai Alcazar,Low Mileage,Technology Upgrade,LOW,3.5
+Twitter,Hyderabad,Harrier,Expensive maintenance,Negative,Pricing,Negative,Kia Seltos,Service Delay,Pricing Adjustment,HIGH,1.4
+ZigWheels,Pune,Harrier,Good after-sales experience,Positive,Service,Positive,Kia Seltos,Infotainment Lag,Feature Addition,LOW,4.7
+Twitter,Delhi,Harrier,Design feels outdated,Negative,Design,Negative,Kia Seltos,Service Delay,Feature Addition,LOW,2.3
+ZigWheels,Kolkata,Harrier,Good after-sales experience,Positive,Service,Positive,Mahindra XUV700,High Price,Technology Upgrade,LOW,3.3
+ZigWheels,Lucknow,Harrier,Build quality feels rock solid,Positive,Build Quality,Positive,MG Hector,Infotainment Lag,Service Expansion,CRITICAL,3.7
+CarDekho,Lucknow,Harrier,Powerful engine performance,Positive,Performance,Positive,Kia Seltos,Service Delay,Technology Upgrade,MEDIUM,4.2
+ZigWheels,Lucknow,Safari,Adequate space for daily use,Neutral,Comfort & Space,Neutral,Mahindra XUV700,Infotainment Lag,Comfort Upgrade,HIGH,3.4
+ZigWheels,Lucknow,Safari,Infotainment system is smooth,Positive,Technology & Infotainment,Positive,Hyundai Creta,Spare Part Availability,Technology Upgrade,MEDIUM,4.9
+CarDekho,Mumbai,Safari,Material quality feels cheap,Negative,Build Quality,Negative,MG Hector,Service Delay,Feature Addition,HIGH,1.8
+CarDekho,Chennai,Safari,Poor touch response on screen,Negative,Technology & Infotainment,Negative,MG Hector,Spare Part Availability,Pricing Adjustment,MEDIUM,2.1
+Twitter,Kolkata,Safari,Stable and secure ride,Positive,Safety,Positive,Kia Seltos,Spare Part Availability,Technology Upgrade,CRITICAL,4
+ZigWheels,Hyderabad,Harrier,Not stylish compared to rivals,Negative,Design,Negative,MG Hector,Service Delay,Service Expansion,CRITICAL,1.4
+ZigWheels,Pune,Safari,Brakes lack confidence,Negative,Safety,Negative,Kia Seltos,Spare Part Availability,Pricing Adjustment,LOW,2.6
+ZigWheels,Lucknow,Harrier,Not stylish compared to rivals,Negative,Design,Negative,MG Hector,Spare Part Availability,Technology Upgrade,HIGH,3.4
+ZigWheels,Mumbai,Safari,Service delays are frustrating,Negative,Service,Negative,MG Hector,Service Delay,Feature Addition,LOW,1.5
+Twitter,Mumbai,Safari,Brakes lack confidence,Negative,Safety,Negative,MG Hector,Spare Part Availability,Pricing Adjustment,MEDIUM,3
+Twitter,Pune,Safari,Expensive maintenance,Negative,Pricing,Negative,Hyundai Creta,High Price,Pricing Adjustment,CRITICAL,2
+Twitter,Lucknow,Safari,Service centers are supportive,Positive,Service,Positive,MG Hector,Infotainment Lag,Pricing Adjustment,HIGH,2.2
+Twitter,Mumbai,Safari,Design is acceptable,Neutral,Design,Neutral,Kia Seltos,Infotainment Lag,Technology Upgrade,HIGH,2.1
+ZigWheels,Bangalore,Safari,Spacious cabin and comfortable for long drives,Positive,Comfort & Space,Positive,Hyundai Creta,Service Delay,Technology Upgrade,CRITICAL,2.8
+CarDekho,Lucknow,Safari,Material quality feels cheap,Negative,Build Quality,Negative,MG Hector,Low Mileage,Technology Upgrade,LOW,1.7
+Twitter,Bangalore,Safari,Safety is decent,Neutral,Safety,Neutral,Mahindra XUV700,Service Delay,Pricing Adjustment,MEDIUM,2.4
+CarDekho,Kolkata,Harrier,Strong and sturdy body,Positive,Build Quality,Positive,Kia Seltos,Service Delay,Pricing Adjustment,LOW,2.7
+Twitter,Chennai,Safari,Safety is decent,Neutral,Safety,Neutral,MG Hector,Spare Part Availability,Service Expansion,CRITICAL,1.7
+ZigWheels,Delhi,Safari,Looks are average,Neutral,Design,Neutral,Mahindra XUV700,Infotainment Lag,Pricing Adjustment,MEDIUM,2.7
+CarDekho,Lucknow,Safari,Build quality feels rock solid,Positive,Build Quality,Positive,Hyundai Creta,Spare Part Availability,Service Expansion,CRITICAL,2.2
+CarDekho,Chennai,Harrier,Service is average,Neutral,Service,Neutral,Kia Seltos,Infotainment Lag,Pricing Adjustment,MEDIUM,2
+ZigWheels,Hyderabad,Safari,Good after-sales experience,Positive,Service,Positive,Kia Seltos,Service Delay,Feature Addition,MEDIUM,4.7
+Twitter,Chennai,Safari,Acceleration is sluggish,Negative,Performance,Negative,Hyundai Creta,Service Delay,Feature Addition,MEDIUM,1
+Twitter,Bangalore,Safari,Infotainment system is smooth,Positive,Technology & Infotainment,Positive,Hyundai Creta,Infotainment Lag,Service Expansion,HIGH,4.6
+ZigWheels,Bangalore,Safari,Expensive maintenance,Negative,Pricing,Negative,Hyundai Alcazar,Low Mileage,Feature Addition,HIGH,2.6
+ZigWheels,Delhi,Harrier,Looks are average,Neutral,Design,Neutral,Hyundai Creta,Low Mileage,Technology Upgrade,MEDIUM,3
+Twitter,Mumbai,Safari,Design is acceptable,Neutral,Design,Neutral,Hyundai Alcazar,Infotainment Lag,Feature Addition,LOW,2.5
+ZigWheels,Delhi,Harrier,Comfort is decent,Neutral,Comfort & Space,Neutral,Kia Seltos,High Price,Technology Upgrade,CRITICAL,2.7
+Twitter,Kolkata,Safari,Stable and secure ride,Positive,Safety,Positive,Mahindra XUV700,Infotainment Lag,Pricing Adjustment,CRITICAL,2.6
+Twitter,Hyderabad,Safari,Features are decent,Neutral,Technology & Infotainment,Neutral,MG Hector,Infotainment Lag,Pricing Adjustment,MEDIUM,2.9
+CarDekho,Lucknow,Harrier,After sales service is disappointing,Negative,Service,Negative,MG Hector,Service Delay,Service Expansion,HIGH,2.9
+CarDekho,Kolkata,Harrier,Third-row comfort is poor,Negative,Comfort & Space,Negative,Hyundai Creta,Low Mileage,Technology Upgrade,HIGH,2.2
+Twitter,Delhi,Harrier,Poor touch response on screen,Negative,Technology & Infotainment,Negative,Hyundai Creta,Spare Part Availability,Feature Addition,LOW,2.9
+CarDekho,Mumbai,Safari,Affordable compared to rivals,Positive,Pricing,Positive,Kia Seltos,Spare Part Availability,Pricing Adjustment,LOW,4.7
+CarDekho,Lucknow,Safari,Average durability,Neutral,Build Quality,Neutral,MG Hector,Service Delay,Comfort Upgrade,CRITICAL,2.7
+Twitter,Kolkata,Harrier,Great road presence,Positive,Design,Positive,Mahindra XUV700,Service Delay,Technology Upgrade,MEDIUM,3.3
+CarDekho,Hyderabad,Safari,Features are decent,Neutral,Technology & Infotainment,Neutral,Hyundai Alcazar,High Price,Comfort Upgrade,LOW,2.5
+ZigWheels,Pune,Safari,Spacious cabin and comfortable for long drives,Positive,Comfort & Space,Positive,MG Hector,Service Delay,Comfort Upgrade,MEDIUM,2.7
+Twitter,Delhi,Harrier,Build quality is fine,Neutral,Build Quality,Neutral,Hyundai Alcazar,Spare Part Availability,Feature Addition,CRITICAL,2.5
+ZigWheels,Chennai,Safari,Features are decent,Neutral,Technology & Infotainment,Neutral,Mahindra XUV700,Service Delay,Feature Addition,HIGH,1.3
+CarDekho,Lucknow,Harrier,High price for features offered,Negative,Pricing,Negative,Hyundai Creta,Service Delay,Comfort Upgrade,MEDIUM,1.1
+ZigWheels,Bangalore,Harrier,Decent for its segment,Neutral,Pricing,Neutral,Hyundai Creta,Service Delay,Pricing Adjustment,MEDIUM,2.9
+CarDekho,Pune,Harrier,Infotainment system is smooth,Positive,Technology & Infotainment,Positive,MG Hector,High Price,Feature Addition,HIGH,3
+CarDekho,Hyderabad,Safari,Features are decent,Neutral,Technology & Infotainment,Neutral,Kia Seltos,High Price,Pricing Adjustment,CRITICAL,1.6
+ZigWheels,Hyderabad,Safari,Support is okay,Neutral,Service,Neutral,Hyundai Alcazar,Spare Part Availability,Technology Upgrade,MEDIUM,1.6
+Twitter,Lucknow,Safari,Service delays are frustrating,Negative,Service,Negative,Kia Seltos,Spare Part Availability,Technology Upgrade,LOW,2.2
+CarDekho,Pune,Harrier,Spacious cabin and comfortable for long drives,Positive,Comfort & Space,Positive,Kia Seltos,Low Mileage,Comfort Upgrade,MEDIUM,3.4
+CarDekho,Chennai,Harrier,Average durability,Neutral,Build Quality,Neutral,Hyundai Alcazar,Infotainment Lag,Service Expansion,HIGH,1.8
+Twitter,Mumbai,Safari,Decent for its segment,Neutral,Pricing,Neutral,Hyundai Alcazar,Low Mileage,Service Expansion,HIGH,1.9
+Twitter,Hyderabad,Harrier,Third-row comfort is poor,Negative,Comfort & Space,Negative,Hyundai Alcazar,High Price,Feature Addition,MEDIUM,1.9
+CarDekho,Hyderabad,Safari,Strong and sturdy body,Positive,Build Quality,Positive,Mahindra XUV700,Infotainment Lag,Service Expansion,MEDIUM,4
+CarDekho,Delhi,Harrier,Affordable compared to rivals,Positive,Pricing,Positive,MG Hector,High Price,Comfort Upgrade,CRITICAL,3.1
+ZigWheels,Kolkata,Safari,Performance is acceptable,Neutral,Performance,Neutral,Mahindra XUV700,Low Mileage,Feature Addition,CRITICAL,1.4
+Twitter,Chennai,Harrier,Build quality feels rock solid,Positive,Build Quality,Positive,Kia Seltos,Spare Part Availability,Pricing Adjustment,CRITICAL,4.8
+ZigWheels,Hyderabad,Harrier,Poor touch response on screen,Negative,Technology & Infotainment,Negative,Hyundai Creta,High Price,Technology Upgrade,CRITICAL,1.9
+ZigWheels,Hyderabad,Harrier,Design feels outdated,Negative,Design,Negative,Hyundai Alcazar,Service Delay,Technology Upgrade,LOW,3.4
+ZigWheels,Mumbai,Safari,Support is okay,Neutral,Service,Neutral,MG Hector,Low Mileage,Technology Upgrade,LOW,3.1
+CarDekho,Mumbai,Safari,Material quality feels cheap,Negative,Build Quality,Negative,Hyundai Alcazar,Infotainment Lag,Pricing Adjustment,LOW,3.4
+ZigWheels,Mumbai,Safari,Strong and sturdy body,Positive,Build Quality,Positive,Hyundai Alcazar,Service Delay,Comfort Upgrade,CRITICAL,3
+CarDekho,Bangalore,Harrier,Loaded with safety features,Positive,Safety,Positive,Kia Seltos,Spare Part Availability,Service Expansion,CRITICAL,2.7
+Twitter,Bangalore,Safari,Great road presence,Positive,Design,Positive,Kia Seltos,Low Mileage,Feature Addition,CRITICAL,2.6
+CarDekho,Lucknow,Harrier,Infotainment system is smooth,Positive,Technology & Infotainment,Positive,Kia Seltos,Infotainment Lag,Comfort Upgrade,LOW,2.7
+CarDekho,Delhi,Safari,Expensive maintenance,Negative,Pricing,Negative,Hyundai Alcazar,Low Mileage,Technology Upgrade,HIGH,1.3
+Twitter,Chennai,Harrier,Engine is adequate,Neutral,Performance,Neutral,Kia Seltos,Spare Part Availability,Comfort Upgrade,MEDIUM,1.3
+Twitter,Pune,Safari,Material quality feels cheap,Negative,Build Quality,Negative,Hyundai Creta,Service Delay,Technology Upgrade,MEDIUM,3
+Twitter,Delhi,Safari,Engine feels noisy,Negative,Performance,Negative,MG Hector,Low Mileage,Feature Addition,HIGH,1.9
+CarDekho,Lucknow,Harrier,Build quality feels rock solid,Positive,Build Quality,Positive,Hyundai Alcazar,Service Delay,Technology Upgrade,MEDIUM,3.2
+Twitter,Delhi,Safari,High price for features offered,Negative,Pricing,Negative,Hyundai Creta,Service Delay,Service Expansion,CRITICAL,3.3
+CarDekho,Kolkata,Safari,Powerful engine performance,Positive,Performance,Positive,MG Hector,High Price,Technology Upgrade,LOW,3.7
+Twitter,Delhi,Harrier,Service centers are supportive,Positive,Service,Positive,Hyundai Alcazar,Spare Part Availability,Technology Upgrade,MEDIUM,2.8
+ZigWheels,Hyderabad,Harrier,Good after-sales experience,Positive,Service,Positive,Kia Seltos,High Price,Technology Upgrade,MEDIUM,2.3
+Twitter,Lucknow,Safari,Good after-sales experience,Positive,Service,Positive,Mahindra XUV700,Infotainment Lag,Pricing Adjustment,MEDIUM,2.6
+Twitter,Pune,Safari,Service is average,Neutral,Service,Neutral,Hyundai Alcazar,Infotainment Lag,Technology Upgrade,MEDIUM,1.1
+Twitter,Lucknow,Harrier,Service delays are frustrating,Negative,Service,Negative,MG Hector,Spare Part Availability,Technology Upgrade,MEDIUM,1.5
+Twitter,Delhi,Safari,Adequate safety features,Neutral,Safety,Neutral,Hyundai Creta,Low Mileage,Service Expansion,LOW,1.9
+Twitter,Bangalore,Harrier,Third-row comfort is poor,Negative,Comfort & Space,Negative,Kia Seltos,High Price,Feature Addition,CRITICAL,3.3
+ZigWheels,Chennai,Safari,Average durability,Neutral,Build Quality,Neutral,Mahindra XUV700,High Price,Service Expansion,LOW,3.2
+CarDekho,Mumbai,Harrier,Fit and finish not good,Negative,Build Quality,Negative,Kia Seltos,Low Mileage,Technology Upgrade,HIGH,2.4
+ZigWheels,Kolkata,Safari,Strong and sturdy body,Positive,Build Quality,Positive,Hyundai Creta,High Price,Comfort Upgrade,HIGH,3.2
+CarDekho,Chennai,Harrier,Design feels outdated,Negative,Design,Negative,Mahindra XUV700,Low Mileage,Service Expansion,LOW,2.3
+Twitter,Delhi,Harrier,Support is okay,Neutral,Service,Neutral,Hyundai Alcazar,Low Mileage,Pricing Adjustment,LOW,2.3
+ZigWheels,Hyderabad,Safari,Infotainment system is smooth,Positive,Technology & Infotainment,Positive,Kia Seltos,Low Mileage,Pricing Adjustment,CRITICAL,3.4
+Twitter,Bangalore,Safari,Infotainment system is smooth,Positive,Technology & Infotainment,Positive,Mahindra XUV700,High Price,Pricing Adjustment,MEDIUM,4.3
+ZigWheels,Bangalore,Harrier,After sales service is disappointing,Negative,Service,Negative,Hyundai Alcazar,Service Delay,Comfort Upgrade,LOW,2.1
+Twitter,Kolkata,Safari,Features are decent,Neutral,Technology & Infotainment,Neutral,Hyundai Alcazar,High Price,Service Expansion,LOW,2.6
+Twitter,Delhi,Safari,Average durability,Neutral,Build Quality,Neutral,Hyundai Alcazar,High Price,Service Expansion,CRITICAL,2.5
+Twitter,Hyderabad,Safari,Loaded with safety features,Positive,Safety,Positive,Hyundai Creta,Low Mileage,Feature Addition,CRITICAL,3.7
+CarDekho,Mumbai,Safari,Airbags missing in base variant,Negative,Safety,Negative,Hyundai Creta,Spare Part Availability,Comfort Upgrade,LOW,3
+Twitter,Lucknow,Harrier,Great value for money,Positive,Pricing,Positive,Kia Seltos,Low Mileage,Service Expansion,CRITICAL,4.6
+Twitter,Lucknow,Safari,Adequate safety features,Neutral,Safety,Neutral,Hyundai Creta,Spare Part Availability,Service Expansion,CRITICAL,1.2
+ZigWheels,Delhi,Harrier,Airbags missing in base variant,Negative,Safety,Negative,Hyundai Alcazar,Infotainment Lag,Pricing Adjustment,MEDIUM,1.2
+CarDekho,Lucknow,Harrier,Fit and finish not good,Negative,Build Quality,Negative,Hyundai Alcazar,Spare Part Availability,Comfort Upgrade,LOW,1
+CarDekho,Hyderabad,Harrier,Technology is acceptable,Neutral,Technology & Infotainment,Neutral,MG Hector,Low Mileage,Comfort Upgrade,MEDIUM,1.6
+ZigWheels,Lucknow,Harrier,Infotainment system is smooth,Positive,Technology & Infotainment,Positive,Kia Seltos,Service Delay,Feature Addition,MEDIUM,3.5
+CarDekho,Bangalore,Safari,Great road presence,Positive,Design,Positive,Hyundai Creta,High Price,Comfort Upgrade,LOW,4.8
+Twitter,Kolkata,Safari,Great handling and smooth ride experience,Positive,Performance,Positive,Hyundai Alcazar,Service Delay,Service Expansion,CRITICAL,4.2
+CarDekho,Chennai,Safari,Spacious cabin and comfortable for long drives,Positive,Comfort & Space,Positive,Hyundai Creta,Service Delay,Pricing Adjustment,CRITICAL,4.6
+Twitter,Pune,Harrier,Build quality is fine,Neutral,Build Quality,Neutral,Hyundai Alcazar,Low Mileage,Service Expansion,CRITICAL,3.1
+CarDekho,Chennai,Harrier,Poor touch response on screen,Negative,Technology & Infotainment,Negative,MG Hector,Infotainment Lag,Comfort Upgrade,LOW,3
+CarDekho,Kolkata,Safari,Service delays are frustrating,Negative,Service,Negative,MG Hector,Low Mileage,Feature Addition,CRITICAL,2.6
+ZigWheels,Chennai,Safari,Pricing is acceptable,Neutral,Pricing,Neutral,Hyundai Alcazar,Infotainment Lag,Pricing Adjustment,CRITICAL,2.4
+ZigWheels,Chennai,Safari,Airbags missing in base variant,Negative,Safety,Negative,Hyundai Creta,High Price,Service Expansion,CRITICAL,2.5
+CarDekho,Delhi,Harrier,Not stylish compared to rivals,Negative,Design,Negative,MG Hector,Low Mileage,Technology Upgrade,LOW,2.2
+CarDekho,Delhi,Harrier,Ample legroom and headroom,Positive,Comfort & Space,Positive,Hyundai Alcazar,Service Delay,Comfort Upgrade,LOW,2.1
+ZigWheels,Hyderabad,Safari,Service delays are frustrating,Negative,Service,Negative,MG Hector,Service Delay,Feature Addition,CRITICAL,2.4
+CarDekho,Kolkata,Safari,Great handling and smooth ride experience,Positive,Performance,Positive,Kia Seltos,High Price,Technology Upgrade,LOW,3.3
+CarDekho,Bangalore,Harrier,Adequate safety features,Neutral,Safety,Neutral,MG Hector,Infotainment Lag,Feature Addition,MEDIUM,3.4
+Twitter,Kolkata,Safari,Comfort is decent,Neutral,Comfort & Space,Neutral,Mahindra XUV700,Service Delay,Feature Addition,LOW,2.2
+ZigWheels,Delhi,Safari,Airbags missing in base variant,Negative,Safety,Negative,Kia Seltos,High Price,Comfort Upgrade,MEDIUM,3.3
+CarDekho,Lucknow,Harrier,Ample legroom and headroom,Positive,Comfort & Space,Positive,MG Hector,Low Mileage,Technology Upgrade,MEDIUM,4.1
+Twitter,Kolkata,Safari,Engine feels noisy,Negative,Performance,Negative,Kia Seltos,Infotainment Lag,Technology Upgrade,HIGH,2.4
+CarDekho,Hyderabad,Safari,Affordable compared to rivals,Positive,Pricing,Positive,Mahindra XUV700,Spare Part Availability,Comfort Upgrade,HIGH,4.9
+CarDekho,Pune,Harrier,Pricing is acceptable,Neutral,Pricing,Neutral,Mahindra XUV700,Service Delay,Service Expansion,HIGH,1.9
+ZigWheels,Hyderabad,Safari,Adequate space for daily use,Neutral,Comfort & Space,Neutral,Kia Seltos,Low Mileage,Feature Addition,CRITICAL,2.4
+Twitter,Kolkata,Harrier,Bold looks and premium cabin,Positive,Design,Positive,Mahindra XUV700,Low Mileage,Feature Addition,LOW,2.5
+CarDekho,Hyderabad,Harrier,Good after-sales experience,Positive,Service,Positive,MG Hector,High Price,Service Expansion,HIGH,2.7
+Twitter,Delhi,Harrier,Service centers are supportive,Positive,Service,Positive,MG Hector,Infotainment Lag,Technology Upgrade,MEDIUM,2.8
+ZigWheels,Lucknow,Safari,High price for features offered,Negative,Pricing,Negative,Kia Seltos,Spare Part Availability,Service Expansion,LOW,2.8
+Twitter,Pune,Harrier,Infotainment system is smooth,Positive,Technology & Infotainment,Positive,Hyundai Alcazar,Spare Part Availability,Comfort Upgrade,CRITICAL,4
+ZigWheels,Chennai,Harrier,Service centers are supportive,Positive,Service,Positive,Mahindra XUV700,Spare Part Availability,Technology Upgrade,CRITICAL,4.7
+Twitter,Pune,Harrier,High price for features offered,Negative,Pricing,Negative,Hyundai Creta,Service Delay,Pricing Adjustment,CRITICAL,1.1
+CarDekho,Kolkata,Harrier,Comfort is decent,Neutral,Comfort & Space,Neutral,Hyundai Alcazar,Service Delay,Pricing Adjustment,LOW,2.7
+ZigWheels,Kolkata,Safari,Service is average,Neutral,Service,Neutral,MG Hector,Spare Part Availability,Technology Upgrade,HIGH,1.7
+CarDekho,Mumbai,Harrier,Not stylish compared to rivals,Negative,Design,Negative,Mahindra XUV700,Spare Part Availability,Feature Addition,HIGH,2.6
+ZigWheels,Chennai,Harrier,Bold looks and premium cabin,Positive,Design,Positive,MG Hector,Infotainment Lag,Technology Upgrade,HIGH,4.8
+ZigWheels,Bangalore,Harrier,Average durability,Neutral,Build Quality,Neutral,MG Hector,Spare Part Availability,Pricing Adjustment,CRITICAL,3
+Twitter,Chennai,Safari,Technology is acceptable,Neutral,Technology & Infotainment,Neutral,Hyundai Alcazar,Service Delay,Service Expansion,CRITICAL,2.9
+Twitter,Lucknow,Safari,Technology is acceptable,Neutral,Technology & Infotainment,Neutral,MG Hector,Low Mileage,Pricing Adjustment,MEDIUM,2.6
+Twitter,Pune,Harrier,Pricing is acceptable,Neutral,Pricing,Neutral,Hyundai Alcazar,High Price,Comfort Upgrade,MEDIUM,3.3
+Twitter,Chennai,Harrier,Service delays are frustrating,Negative,Service,Negative,Hyundai Creta,Service Delay,Pricing Adjustment,CRITICAL,3.4
+Twitter,Hyderabad,Harrier,Ample legroom and headroom,Positive,Comfort & Space,Positive,MG Hector,Low Mileage,Pricing Adjustment,MEDIUM,2.6
+CarDekho,Kolkata,Safari,Great road presence,Positive,Design,Positive,Hyundai Alcazar,Infotainment Lag,Service Expansion,HIGH,4.2
+ZigWheels,Hyderabad,Safari,Technology is acceptable,Neutral,Technology & Infotainment,Neutral,Hyundai Alcazar,Spare Part Availability,Technology Upgrade,MEDIUM,1.3
+ZigWheels,Kolkata,Safari,Build quality is fine,Neutral,Build Quality,Neutral,MG Hector,Spare Part Availability,Service Expansion,CRITICAL,2.8
+Twitter,Delhi,Harrier,Material quality feels cheap,Negative,Build Quality,Negative,Hyundai Alcazar,Infotainment Lag,Feature Addition,LOW,2.7
+Twitter,Lucknow,Harrier,Adequate space for daily use,Neutral,Comfort & Space,Neutral,Kia Seltos,Spare Part Availability,Technology Upgrade,MEDIUM,3.1
+CarDekho,Mumbai,Harrier,Fit and finish not good,Negative,Build Quality,Negative,Kia Seltos,Infotainment Lag,Pricing Adjustment,HIGH,1
+ZigWheels,Chennai,Harrier,Poor touch response on screen,Negative,Technology & Infotainment,Negative,Mahindra XUV700,Service Delay,Service Expansion,MEDIUM,3.4
+ZigWheels,Hyderabad,Safari,Build quality feels rock solid,Positive,Build Quality,Positive,Hyundai Creta,Infotainment Lag,Service Expansion,CRITICAL,2.9
+ZigWheels,Kolkata,Harrier,Spacious cabin and comfortable for long drives,Positive,Comfort & Space,Positive,Hyundai Alcazar,High Price,Pricing Adjustment,CRITICAL,3.3
+CarDekho,Mumbai,Safari,Technology is acceptable,Neutral,Technology & Infotainment,Neutral,Mahindra XUV700,Low Mileage,Technology Upgrade,MEDIUM,1.3
+CarDekho,Mumbai,Harrier,Acceleration is sluggish,Negative,Performance,Negative,Mahindra XUV700,Infotainment Lag,Pricing Adjustment,LOW,3.1
+CarDekho,Hyderabad,Safari,Acceleration is sluggish,Negative,Performance,Negative,MG Hector,Spare Part Availability,Service Expansion,CRITICAL,3.1
+ZigWheels,Lucknow,Harrier,Engine feels noisy,Negative,Performance,Negative,Kia Seltos,Service Delay,Pricing Adjustment,LOW,1.8
+Twitter,Hyderabad,Harrier,Features are decent,Neutral,Technology & Infotainment,Neutral,MG Hector,Service Delay,Pricing Adjustment,LOW,1.3
+CarDekho,Hyderabad,Safari,Design feels outdated,Negative,Design,Negative,Mahindra XUV700,Infotainment Lag,Pricing Adjustment,MEDIUM,3
+Twitter,Bangalore,Safari,Pricing is acceptable,Neutral,Pricing,Neutral,Hyundai Alcazar,Infotainment Lag,Comfort Upgrade,HIGH,2.3
+Twitter,Delhi,Harrier,Service centers are supportive,Positive,Service,Positive,MG Hector,Low Mileage,Pricing Adjustment,LOW,4.8
+CarDekho,Bangalore,Safari,Service delays are frustrating,Negative,Service,Negative,MG Hector,High Price,Pricing Adjustment,MEDIUM,3.4
+Twitter,Lucknow,Safari,Loaded with modern features,Positive,Technology & Infotainment,Positive,Hyundai Alcazar,Low Mileage,Service Expansion,MEDIUM,3.7
+CarDekho,Chennai,Safari,Service is average,Neutral,Service,Neutral,MG Hector,Service Delay,Technology Upgrade,CRITICAL,2.5
+ZigWheels,Bangalore,Safari,Engine is adequate,Neutral,Performance,Neutral,Mahindra XUV700,Infotainment Lag,Service Expansion,MEDIUM,2.9
+CarDekho,Bangalore,Harrier,Great value for money,Positive,Pricing,Positive,Kia Seltos,High Price,Feature Addition,LOW,3.5
+Twitter,Delhi,Harrier,Good after-sales experience,Positive,Service,Positive,Hyundai Alcazar,Infotainment Lag,Service Expansion,MEDIUM,4.9
+ZigWheels,Chennai,Harrier,Good after-sales experience,Positive,Service,Positive,Hyundai Alcazar,Service Delay,Service Expansion,HIGH,4.2
+Twitter,Bangalore,Harrier,Fit and finish not good,Negative,Build Quality,Negative,MG Hector,Spare Part Availability,Feature Addition,HIGH,1.4
+CarDekho,Bangalore,Harrier,Great road presence,Positive,Design,Positive,MG Hector,Spare Part Availability,Feature Addition,CRITICAL,4.7
+ZigWheels,Kolkata,Harrier,Engine is adequate,Neutral,Performance,Neutral,Kia Seltos,Infotainment Lag,Pricing Adjustment,LOW,1.1
+CarDekho,Delhi,Safari,Strong and sturdy body,Positive,Build Quality,Positive,Hyundai Alcazar,Infotainment Lag,Comfort Upgrade,MEDIUM,3.6
+Twitter,Pune,Harrier,Great handling and smooth ride experience,Positive,Performance,Positive,Kia Seltos,Low Mileage,Service Expansion,HIGH,2.2
+Twitter,Pune,Safari,Technology is acceptable,Neutral,Technology & Infotainment,Neutral,Kia Seltos,Service Delay,Feature Addition,HIGH,2.3
+ZigWheels,Delhi,Harrier,Design is acceptable,Neutral,Design,Neutral,Hyundai Alcazar,Infotainment Lag,Comfort Upgrade,CRITICAL,2
+ZigWheels,Lucknow,Safari,Bold looks and premium cabin,Positive,Design,Positive,Hyundai Alcazar,Spare Part Availability,Comfort Upgrade,HIGH,2.4
+CarDekho,Kolkata,Safari,High price for features offered,Negative,Pricing,Negative,Kia Seltos,High Price,Technology Upgrade,CRITICAL,2.2
+CarDekho,Delhi,Safari,Pricing is acceptable,Neutral,Pricing,Neutral,Mahindra XUV700,Service Delay,Feature Addition,MEDIUM,2.4
+Twitter,Chennai,Safari,Service is average,Neutral,Service,Neutral,Mahindra XUV700,Infotainment Lag,Comfort Upgrade,HIGH,3.3
+Twitter,Delhi,Harrier,Ample legroom and headroom,Positive,Comfort & Space,Positive,MG Hector,Low Mileage,Pricing Adjustment,MEDIUM,4.1
+Twitter,Chennai,Harrier,Looks are average,Neutral,Design,Neutral,MG Hector,Spare Part Availability,Feature Addition,CRITICAL,1.7
+Twitter,Kolkata,Harrier,Modern design with stylish aesthetics,Positive,Design,Positive,Hyundai Alcazar,Low Mileage,Feature Addition,LOW,2.4
+ZigWheels,Mumbai,Safari,Affordable compared to rivals,Positive,Pricing,Positive,MG Hector,Infotainment Lag,Pricing Adjustment,CRITICAL,3.8
+Twitter,Kolkata,Harrier,Not stylish compared to rivals,Negative,Design,Negative,Hyundai Alcazar,High Price,Feature Addition,HIGH,3.1
+Twitter,Chennai,Harrier,Great value for money,Positive,Pricing,Positive,Hyundai Creta,High Price,Service Expansion,LOW,3
+CarDekho,Mumbai,Harrier,Technology is acceptable,Neutral,Technology & Infotainment,Neutral,Hyundai Creta,High Price,Comfort Upgrade,HIGH,1.2
+ZigWheels,Pune,Harrier,After sales service is disappointing,Negative,Service,Negative,Mahindra XUV700,Low Mileage,Technology Upgrade,CRITICAL,1.6
+ZigWheels,Chennai,Safari,Performance is acceptable,Neutral,Performance,Neutral,Hyundai Creta,Infotainment Lag,Technology Upgrade,MEDIUM,2.7
+Twitter,Delhi,Harrier,Service centers are supportive,Positive,Service,Positive,Mahindra XUV700,Low Mileage,Comfort Upgrade,HIGH,4.9
+ZigWheels,Hyderabad,Safari,Great road presence,Positive,Design,Positive,Kia Seltos,Service Delay,Feature Addition,MEDIUM,2.4
+ZigWheels,Lucknow,Safari,Infotainment system is smooth,Positive,Technology & Infotainment,Positive,Kia Seltos,Infotainment Lag,Feature Addition,MEDIUM,3.7
+CarDekho,Mumbai,Safari,Material quality feels cheap,Negative,Build Quality,Negative,MG Hector,Infotainment Lag,Pricing Adjustment,HIGH,1.9
+ZigWheels,Hyderabad,Harrier,Engine feels noisy,Negative,Performance,Negative,MG Hector,Infotainment Lag,Pricing Adjustment,MEDIUM,3.1
+CarDekho,Chennai,Harrier,Stable and secure ride,Positive,Safety,Positive,MG Hector,High Price,Service Expansion,HIGH,4.5
+CarDekho,Bangalore,Harrier,Affordable compared to rivals,Positive,Pricing,Positive,Kia Seltos,Infotainment Lag,Comfort Upgrade,LOW,2.5
+ZigWheels,Delhi,Harrier,Acceleration is sluggish,Negative,Performance,Negative,Mahindra XUV700,Spare Part Availability,Comfort Upgrade,MEDIUM,3
+Twitter,Mumbai,Harrier,Great handling and smooth ride experience,Positive,Performance,Positive,Hyundai Alcazar,Spare Part Availability,Service Expansion,LOW,4.3
+ZigWheels,Kolkata,Safari,Modern design with stylish aesthetics,Positive,Design,Positive,Hyundai Alcazar,Service Delay,Service Expansion,MEDIUM,3.8
+Twitter,Pune,Safari,Strong and sturdy body,Positive,Build Quality,Positive,Hyundai Alcazar,Spare Part Availability,Pricing Adjustment,CRITICAL,3.8
+CarDekho,Hyderabad,Harrier,Average durability,Neutral,Build Quality,Neutral,Kia Seltos,Low Mileage,Feature Addition,LOW,2.5
+Twitter,Hyderabad,Harrier,Spacious cabin and comfortable for long drives,Positive,Comfort & Space,Positive,Kia Seltos,High Price,Comfort Upgrade,HIGH,4.1
+Twitter,Chennai,Safari,Expensive maintenance,Negative,Pricing,Negative,Kia Seltos,Infotainment Lag,Pricing Adjustment,LOW,1.6
+ZigWheels,Pune,Harrier,Spacious cabin and comfortable for long drives,Positive,Comfort & Space,Positive,Mahindra XUV700,Low Mileage,Comfort Upgrade,CRITICAL,4.8
+Twitter,Delhi,Harrier,Good after-sales experience,Positive,Service,Positive,Hyundai Alcazar,Infotainment Lag,Feature Addition,MEDIUM,2.8
+Twitter,Chennai,Safari,Support is okay,Neutral,Service,Neutral,Hyundai Alcazar,Low Mileage,Feature Addition,HIGH,2.9
+CarDekho,Chennai,Safari,Adequate safety features,Neutral,Safety,Neutral,MG Hector,Spare Part Availability,Pricing Adjustment,MEDIUM,2.4
+ZigWheels,Kolkata,Safari,Spacious cabin and comfortable for long drives,Positive,Comfort & Space,Positive,MG Hector,High Price,Service Expansion,MEDIUM,3
+CarDekho,Lucknow,Harrier,Affordable compared to rivals,Positive,Pricing,Positive,Hyundai Creta,Low Mileage,Feature Addition,HIGH,3.1
+Twitter,Pune,Safari,Seats are not comfortable,Negative,Comfort & Space,Negative,Mahindra XUV700,Infotainment Lag,Technology Upgrade,HIGH,3.4
+CarDekho,Chennai,Harrier,Looks are average,Neutral,Design,Neutral,Kia Seltos,Service Delay,Service Expansion,HIGH,3.3
+Twitter,Lucknow,Harrier,Features are decent,Neutral,Technology & Infotainment,Neutral,Hyundai Creta,Service Delay,Comfort Upgrade,LOW,3
+CarDekho,Chennai,Safari,High price for features offered,Negative,Pricing,Negative,Kia Seltos,High Price,Technology Upgrade,CRITICAL,1.5
+Twitter,Chennai,Safari,Adequate safety features,Neutral,Safety,Neutral,Hyundai Creta,Service Delay,Pricing Adjustment,CRITICAL,3.1
+ZigWheels,Kolkata,Harrier,Infotainment system is smooth,Positive,Technology & Infotainment,Positive,MG Hector,Low Mileage,Feature Addition,LOW,4.2
+Twitter,Hyderabad,Harrier,Pricing is acceptable,Neutral,Pricing,Neutral,Hyundai Alcazar,Service Delay,Pricing Adjustment,LOW,3.1
+CarDekho,Mumbai,Harrier,Average durability,Neutral,Build Quality,Neutral,Kia Seltos,High Price,Pricing Adjustment,MEDIUM,1.2
+CarDekho,Pune,Harrier,Great handling and smooth ride experience,Positive,Performance,Positive,Kia Seltos,Infotainment Lag,Comfort Upgrade,LOW,2.7
+ZigWheels,Bangalore,Safari,Service centers are supportive,Positive,Service,Positive,Hyundai Alcazar,Service Delay,Service Expansion,CRITICAL,3.1
+Twitter,Kolkata,Safari,Service centers are supportive,Positive,Service,Positive,Hyundai Alcazar,Low Mileage,Comfort Upgrade,LOW,2.3
+Twitter,Delhi,Safari,Safety is decent,Neutral,Safety,Neutral,Kia Seltos,Service Delay,Technology Upgrade,HIGH,3.3
+ZigWheels,Delhi,Harrier,Third-row comfort is poor,Negative,Comfort & Space,Negative,Kia Seltos,Spare Part Availability,Comfort Upgrade,MEDIUM,3.4
+CarDekho,Kolkata,Harrier,Strong and sturdy body,Positive,Build Quality,Positive,MG Hector,Low Mileage,Comfort Upgrade,CRITICAL,3.5
+ZigWheels,Lucknow,Harrier,Decent for its segment,Neutral,Pricing,Neutral,Kia Seltos,Low Mileage,Feature Addition,LOW,2.1
+ZigWheels,Lucknow,Safari,Great handling and smooth ride experience,Positive,Performance,Positive,Kia Seltos,Low Mileage,Feature Addition,MEDIUM,3.5
+Twitter,Hyderabad,Safari,Loaded with modern features,Positive,Technology & Infotainment,Positive,Kia Seltos,Infotainment Lag,Technology Upgrade,CRITICAL,4.4
+Twitter,Chennai,Safari,Pricing is acceptable,Neutral,Pricing,Neutral,Hyundai Alcazar,Infotainment Lag,Service Expansion,LOW,2.7
+ZigWheels,Bangalore,Safari,Good after-sales experience,Positive,Service,Positive,Hyundai Creta,High Price,Service Expansion,LOW,2.3
+Twitter,Delhi,Safari,Comfort is decent,Neutral,Comfort & Space,Neutral,Hyundai Alcazar,Infotainment Lag,Technology Upgrade,CRITICAL,2.9
+ZigWheels,Mumbai,Harrier,Expensive maintenance,Negative,Pricing,Negative,Hyundai Creta,Service Delay,Comfort Upgrade,CRITICAL,3.3
+CarDekho,Pune,Harrier,Service is average,Neutral,Service,Neutral,MG Hector,Spare Part Availability,Pricing Adjustment,CRITICAL,1.7
+CarDekho,Kolkata,Safari,Powerful engine performance,Positive,Performance,Positive,Mahindra XUV700,Spare Part Availability,Service Expansion,LOW,3.8
+Twitter,Delhi,Harrier,Affordable compared to rivals,Positive,Pricing,Positive,Hyundai Alcazar,Infotainment Lag,Feature Addition,CRITICAL,3.8
+CarDekho,Chennai,Safari,Safety is decent,Neutral,Safety,Neutral,Mahindra XUV700,Low Mileage,Feature Addition,LOW,2.3
+CarDekho,Chennai,Safari,Powerful engine performance,Positive,Performance,Positive,Hyundai Creta,High Price,Technology Upgrade,LOW,4.1
+ZigWheels,Chennai,Safari,Affordable compared to rivals,Positive,Pricing,Positive,MG Hector,Spare Part Availability,Comfort Upgrade,MEDIUM,3.2
+ZigWheels,Pune,Harrier,Loaded with modern features,Positive,Technology & Infotainment,Positive,Mahindra XUV700,High Price,Feature Addition,HIGH,4.6
+ZigWheels,Mumbai,Safari,Adequate space for daily use,Neutral,Comfort & Space,Neutral,Mahindra XUV700,Spare Part Availability,Comfort Upgrade,LOW,1.3
+Twitter,Bangalore,Harrier,Design feels outdated,Negative,Design,Negative,MG Hector,Spare Part Availability,Feature Addition,CRITICAL,3.4
+CarDekho,Mumbai,Harrier,Bold looks and premium cabin,Positive,Design,Positive,Mahindra XUV700,Service Delay,Technology Upgrade,LOW,4.3
+ZigWheels,Kolkata,Safari,Decent for its segment,Neutral,Pricing,Neutral,Kia Seltos,Service Delay,Comfort Upgrade,CRITICAL,2.6
+ZigWheels,Kolkata,Safari,Airbags missing in base variant,Negative,Safety,Negative,Kia Seltos,Spare Part Availability,Pricing Adjustment,HIGH,2.8
+CarDekho,Kolkata,Harrier,Design feels outdated,Negative,Design,Negative,Mahindra XUV700,High Price,Feature Addition,LOW,3.4
+CarDekho,Mumbai,Harrier,Adequate safety features,Neutral,Safety,Neutral,Kia Seltos,High Price,Feature Addition,LOW,1.3
+CarDekho,Kolkata,Harrier,Design feels outdated,Negative,Design,Negative,Mahindra XUV700,Service Delay,Service Expansion,HIGH,3.1
+ZigWheels,Delhi,Safari,High price for features offered,Negative,Pricing,Negative,MG Hector,Service Delay,Technology Upgrade,CRITICAL,3.2
+Twitter,Delhi,Harrier,Spacious cabin and comfortable for long drives,Positive,Comfort & Space,Positive,Hyundai Creta,Infotainment Lag,Service Expansion,HIGH,4.3
+Twitter,Hyderabad,Safari,Build quality is fine,Neutral,Build Quality,Neutral,MG Hector,Low Mileage,Technology Upgrade,CRITICAL,1.2
+CarDekho,Hyderabad,Harrier,Great handling and smooth ride experience,Positive,Performance,Positive,Hyundai Creta,Low Mileage,Service Expansion,LOW,2.1
+CarDekho,Pune,Harrier,Poor touch response on screen,Negative,Technology & Infotainment,Negative,Mahindra XUV700,Infotainment Lag,Service Expansion,MEDIUM,2.4
+Twitter,Lucknow,Harrier,After sales service is disappointing,Negative,Service,Negative,Hyundai Creta,Spare Part Availability,Feature Addition,CRITICAL,2.9
+ZigWheels,Delhi,Safari,Decent for its segment,Neutral,Pricing,Neutral,Kia Seltos,High Price,Technology Upgrade,CRITICAL,2.7
+ZigWheels,Chennai,Harrier,Great value for money,Positive,Pricing,Positive,Kia Seltos,Infotainment Lag,Service Expansion,HIGH,3.8
+ZigWheels,Hyderabad,Harrier,Great handling and smooth ride experience,Positive,Performance,Positive,Hyundai Alcazar,Infotainment Lag,Pricing Adjustment,LOW,2.9
+CarDekho,Kolkata,Safari,Performance is acceptable,Neutral,Performance,Neutral,Hyundai Creta,Service Delay,Feature Addition,LOW,3.4
+CarDekho,Mumbai,Harrier,Brakes lack confidence,Negative,Safety,Negative,Hyundai Alcazar,Infotainment Lag,Comfort Upgrade,LOW,2
+ZigWheels,Hyderabad,Safari,Engine is adequate,Neutral,Performance,Neutral,Hyundai Alcazar,Low Mileage,Service Expansion,CRITICAL,1.3
+CarDekho,Kolkata,Safari,Infotainment system is smooth,Positive,Technology & Infotainment,Positive,Hyundai Creta,Service Delay,Comfort Upgrade,MEDIUM,3
+Twitter,Lucknow,Harrier,High price for features offered,Negative,Pricing,Negative,Hyundai Creta,Spare Part Availability,Pricing Adjustment,LOW,2
+ZigWheels,Bangalore,Safari,Pricing is acceptable,Neutral,Pricing,Neutral,Hyundai Alcazar,Low Mileage,Comfort Upgrade,HIGH,2.7
+CarDekho,Bangalore,Safari,Spacious cabin and comfortable for long drives,Positive,Comfort & Space,Positive,Hyundai Alcazar,Service Delay,Technology Upgrade,HIGH,3.7
+CarDekho,Pune,Harrier,Design feels outdated,Negative,Design,Negative,Mahindra XUV700,Low Mileage,Feature Addition,CRITICAL,2.9
+CarDekho,Kolkata,Harrier,Loaded with safety features,Positive,Safety,Positive,Hyundai Creta,High Price,Technology Upgrade,MEDIUM,2.7
+Twitter,Delhi,Safari,Powerful engine performance,Positive,Performance,Positive,Kia Seltos,Low Mileage,Comfort Upgrade,LOW,4
+Twitter,Bangalore,Safari,Safety is decent,Neutral,Safety,Neutral,Hyundai Creta,Spare Part Availability,Pricing Adjustment,HIGH,1.3
+Twitter,Chennai,Safari,Powerful engine performance,Positive,Performance,Positive,Hyundai Alcazar,Infotainment Lag,Service Expansion,CRITICAL,2.4
+Twitter,Mumbai,Harrier,Service centers are supportive,Positive,Service,Positive,Hyundai Alcazar,Spare Part Availability,Technology Upgrade,MEDIUM,4.3
+ZigWheels,Pune,Safari,Safety is decent,Neutral,Safety,Neutral,Hyundai Creta,Low Mileage,Feature Addition,CRITICAL,2.1
+Twitter,Lucknow,Harrier,Adequate space for daily use,Neutral,Comfort & Space,Neutral,MG Hector,Service Delay,Comfort Upgrade,MEDIUM,3
+Twitter,Chennai,Harrier,Infotainment system lags,Negative,Technology & Infotainment,Negative,Hyundai Alcazar,Service Delay,Feature Addition,MEDIUM,1.6
+Twitter,Pune,Safari,Performance is acceptable,Neutral,Performance,Neutral,Hyundai Creta,High Price,Comfort Upgrade,LOW,2.2
+ZigWheels,Pune,Safari,Adequate safety features,Neutral,Safety,Neutral,MG Hector,Spare Part Availability,Technology Upgrade,MEDIUM,3.1
+ZigWheels,Bangalore,Safari,Service is average,Neutral,Service,Neutral,MG Hector,Service Delay,Feature Addition,HIGH,3
+ZigWheels,Delhi,Safari,Expensive maintenance,Negative,Pricing,Negative,MG Hector,Spare Part Availability,Technology Upgrade,CRITICAL,1.4
+CarDekho,Pune,Safari,Infotainment system is smooth,Positive,Technology & Infotainment,Positive,Kia Seltos,High Price,Comfort Upgrade,HIGH,3.4
+CarDekho,Delhi,Safari,Support is okay,Neutral,Service,Neutral,Kia Seltos,Infotainment Lag,Service Expansion,MEDIUM,2.5
+CarDekho,Lucknow,Safari,Powerful engine performance,Positive,Performance,Positive,Mahindra XUV700,Infotainment Lag,Comfort Upgrade,MEDIUM,2.3
+Twitter,Chennai,Harrier,Strong and sturdy body,Positive,Build Quality,Positive,Hyundai Alcazar,Low Mileage,Technology Upgrade,HIGH,2.1
+Twitter,Pune,Harrier,Adequate space for daily use,Neutral,Comfort & Space,Neutral,Kia Seltos,Spare Part Availability,Pricing Adjustment,MEDIUM,3.2
+CarDekho,Lucknow,Harrier,Support is okay,Neutral,Service,Neutral,MG Hector,High Price,Feature Addition,MEDIUM,1.5
+Twitter,Delhi,Safari,Ample legroom and headroom,Positive,Comfort & Space,Positive,Kia Seltos,Low Mileage,Technology Upgrade,CRITICAL,4.4
+CarDekho,Delhi,Safari,Third-row comfort is poor,Negative,Comfort & Space,Negative,Hyundai Creta,Spare Part Availability,Pricing Adjustment,CRITICAL,2.9
+CarDekho,Chennai,Safari,Great handling and smooth ride experience,Positive,Performance,Positive,Hyundai Creta,Infotainment Lag,Technology Upgrade,LOW,2.5
+Twitter,Lucknow,Safari,Good after-sales experience,Positive,Service,Positive,Mahindra XUV700,Low Mileage,Comfort Upgrade,HIGH,3.3
+Twitter,Bangalore,Safari,Affordable compared to rivals,Positive,Pricing,Positive,Mahindra XUV700,Infotainment Lag,Pricing Adjustment,HIGH,5
+Twitter,Chennai,Harrier,Engine is adequate,Neutral,Performance,Neutral,Mahindra XUV700,Spare Part Availability,Pricing Adjustment,MEDIUM,1.1
+CarDekho,Bangalore,Harrier,Loaded with modern features,Positive,Technology & Infotainment,Positive,Hyundai Creta,Service Delay,Feature Addition,HIGH,4.8
+ZigWheels,Chennai,Harrier,Service delays are frustrating,Negative,Service,Negative,Kia Seltos,Spare Part Availability,Technology Upgrade,HIGH,1.6
+CarDekho,Kolkata,Harrier,Powerful engine performance,Positive,Performance,Positive,Mahindra XUV700,Service Delay,Feature Addition,HIGH,2.5
+ZigWheels,Mumbai,Safari,Fit and finish not good,Negative,Build Quality,Negative,Kia Seltos,High Price,Comfort Upgrade,HIGH,3.2
+ZigWheels,Lucknow,Harrier,Affordable compared to rivals,Positive,Pricing,Positive,Hyundai Creta,Spare Part Availability,Service Expansion,MEDIUM,2.3
+Twitter,Mumbai,Safari,Average durability,Neutral,Build Quality,Neutral,Hyundai Creta,Spare Part Availability,Feature Addition,MEDIUM,1.4
+CarDekho,Kolkata,Safari,Not stylish compared to rivals,Negative,Design,Negative,Hyundai Alcazar,Service Delay,Service Expansion,CRITICAL,1.7
+Twitter,Pune,Safari,Looks are average,Neutral,Design,Neutral,Hyundai Creta,High Price,Comfort Upgrade,CRITICAL,1.3
+CarDekho,Kolkata,Harrier,Spacious cabin and comfortable for long drives,Positive,Comfort & Space,Positive,Hyundai Creta,Spare Part Availability,Pricing Adjustment,LOW,3.2
+CarDekho,Chennai,Harrier,Adequate space for daily use,Neutral,Comfort & Space,Neutral,MG Hector,Infotainment Lag,Feature Addition,MEDIUM,1.7
+CarDekho,Bangalore,Safari,Support is okay,Neutral,Service,Neutral,Hyundai Creta,High Price,Technology Upgrade,LOW,3.4
+ZigWheels,Delhi,Safari,Bold looks and premium cabin,Positive,Design,Positive,Mahindra XUV700,Infotainment Lag,Service Expansion,CRITICAL,2.4
+CarDekho,Lucknow,Safari,Great handling and smooth ride experience,Positive,Performance,Positive,Mahindra XUV700,High Price,Technology Upgrade,MEDIUM,2.1
+CarDekho,Chennai,Harrier,Great value for money,Positive,Pricing,Positive,Mahindra XUV700,High Price,Technology Upgrade,MEDIUM,3.6
+CarDekho,Mumbai,Harrier,Spacious cabin and comfortable for long drives,Positive,Comfort & Space,Positive,Hyundai Alcazar,Low Mileage,Feature Addition,CRITICAL,4
+ZigWheels,Hyderabad,Safari,Features are decent,Neutral,Technology & Infotainment,Neutral,Hyundai Alcazar,Spare Part Availability,Technology Upgrade,LOW,2.5
+ZigWheels,Bangalore,Safari,Build quality feels rock solid,Positive,Build Quality,Positive,Kia Seltos,Low Mileage,Technology Upgrade,LOW,2.2
+ZigWheels,Bangalore,Harrier,High price for features offered,Negative,Pricing,Negative,Hyundai Creta,High Price,Service Expansion,CRITICAL,1.6
+ZigWheels,Kolkata,Harrier,Features are decent,Neutral,Technology & Infotainment,Neutral,Hyundai Creta,Low Mileage,Technology Upgrade,LOW,2.9
+Twitter,Delhi,Safari,Seats are not comfortable,Negative,Comfort & Space,Negative,MG Hector,Infotainment Lag,Service Expansion,MEDIUM,3.1
+Twitter,Delhi,Safari,Spacious cabin and comfortable for long drives,Positive,Comfort & Space,Positive,Hyundai Alcazar,Low Mileage,Technology Upgrade,LOW,5
+Twitter,Lucknow,Safari,Fit and finish not good,Negative,Build Quality,Negative,Mahindra XUV700,High Price,Pricing Adjustment,LOW,1.7
+Twitter,Lucknow,Safari,Performance is acceptable,Neutral,Performance,Neutral,MG Hector,High Price,Technology Upgrade,LOW,1.3
+ZigWheels,Chennai,Safari,Engine is adequate,Neutral,Performance,Neutral,Hyundai Alcazar,High Price,Pricing Adjustment,CRITICAL,1.4
+ZigWheels,Bangalore,Safari,Ample legroom and headroom,Positive,Comfort & Space,Positive,Mahindra XUV700,Spare Part Availability,Comfort Upgrade,HIGH,4.9
+ZigWheels,Lucknow,Harrier,Service delays are frustrating,Negative,Service,Negative,Hyundai Alcazar,Infotainment Lag,Feature Addition,HIGH,2.5
+Twitter,Pune,Safari,Poor touch response on screen,Negative,Technology & Infotainment,Negative,Kia Seltos,Low Mileage,Technology Upgrade,MEDIUM,3.2
+Twitter,Chennai,Safari,Infotainment system is smooth,Positive,Technology & Infotainment,Positive,Hyundai Alcazar,High Price,Pricing Adjustment,LOW,5
+CarDekho,Bangalore,Harrier,Powerful engine performance,Positive,Performance,Positive,Kia Seltos,Service Delay,Technology Upgrade,MEDIUM,2.8
+Twitter,Bangalore,Harrier,Infotainment system lags,Negative,Technology & Infotainment,Negative,Mahindra XUV700,Service Delay,Service Expansion,CRITICAL,2.6
+Twitter,Bangalore,Safari,Service is average,Neutral,Service,Neutral,Kia Seltos,High Price,Service Expansion,LOW,2.7
+ZigWheels,Lucknow,Harrier,Service delays are frustrating,Negative,Service,Negative,Mahindra XUV700,High Price,Feature Addition,CRITICAL,1.1
+Twitter,Hyderabad,Safari,Build quality feels rock solid,Positive,Build Quality,Positive,Hyundai Creta,Service Delay,Pricing Adjustment,CRITICAL,4.2
+Twitter,Hyderabad,Harrier,Service delays are frustrating,Negative,Service,Negative,Mahindra XUV700,Spare Part Availability,Technology Upgrade,HIGH,1.2
+ZigWheels,Kolkata,Safari,Performance is acceptable,Neutral,Performance,Neutral,Mahindra XUV700,Spare Part Availability,Service Expansion,MEDIUM,3.2
+Twitter,Delhi,Harrier,Safety is decent,Neutral,Safety,Neutral,Hyundai Alcazar,Spare Part Availability,Comfort Upgrade,CRITICAL,2.2
+CarDekho,Kolkata,Harrier,Decent for its segment,Neutral,Pricing,Neutral,Hyundai Alcazar,Service Delay,Service Expansion,CRITICAL,2.3
+Twitter,Chennai,Harrier,Infotainment system is smooth,Positive,Technology & Infotainment,Positive,Hyundai Creta,Low Mileage,Comfort Upgrade,MEDIUM,3.2
+ZigWheels,Bangalore,Safari,Expensive maintenance,Negative,Pricing,Negative,Mahindra XUV700,Spare Part Availability,Technology Upgrade,CRITICAL,1.2
+CarDekho,Mumbai,Safari,Engine is adequate,Neutral,Performance,Neutral,MG Hector,Infotainment Lag,Feature Addition,CRITICAL,3.2
+CarDekho,Mumbai,Harrier,After sales service is disappointing,Negative,Service,Negative,Hyundai Creta,Service Delay,Technology Upgrade,CRITICAL,3.4
+Twitter,Pune,Harrier,Features are decent,Neutral,Technology & Infotainment,Neutral,Kia Seltos,Service Delay,Technology Upgrade,LOW,1.4
+ZigWheels,Hyderabad,Harrier,Support is okay,Neutral,Service,Neutral,Mahindra XUV700,High Price,Service Expansion,HIGH,2.7
+ZigWheels,Pune,Safari,Stable and secure ride,Positive,Safety,Positive,MG Hector,High Price,Comfort Upgrade,MEDIUM,3.1
+CarDekho,Bangalore,Safari,Powerful engine performance,Positive,Performance,Positive,Kia Seltos,Spare Part Availability,Comfort Upgrade,CRITICAL,2.2
+Twitter,Mumbai,Safari,Airbags missing in base variant,Negative,Safety,Negative,MG Hector,Service Delay,Comfort Upgrade,LOW,1.9
+CarDekho,Delhi,Harrier,Ample legroom and headroom,Positive,Comfort & Space,Positive,Kia Seltos,High Price,Feature Addition,LOW,3.2
+ZigWheels,Bangalore,Safari,Pricing is acceptable,Neutral,Pricing,Neutral,Kia Seltos,High Price,Pricing Adjustment,LOW,1.5
+Twitter,Kolkata,Harrier,Great value for money,Positive,Pricing,Positive,Mahindra XUV700,High Price,Feature Addition,MEDIUM,4.2
+ZigWheels,Mumbai,Safari,Design feels outdated,Negative,Design,Negative,Hyundai Alcazar,Spare Part Availability,Feature Addition,HIGH,3.2
+Twitter,Pune,Safari,Acceleration is sluggish,Negative,Performance,Negative,MG Hector,Low Mileage,Pricing Adjustment,LOW,1.3
+Twitter,Pune,Harrier,Average durability,Neutral,Build Quality,Neutral,Hyundai Creta,Infotainment Lag,Technology Upgrade,LOW,1.5
+CarDekho,Hyderabad,Safari,Average durability,Neutral,Build Quality,Neutral,Hyundai Creta,Service Delay,Pricing Adjustment,LOW,2.8
+CarDekho,Pune,Safari,Fit and finish not good,Negative,Build Quality,Negative,Hyundai Creta,Infotainment Lag,Pricing Adjustment,HIGH,2.3
+Twitter,Mumbai,Harrier,Infotainment system is smooth,Positive,Technology & Infotainment,Positive,Mahindra XUV700,Low Mileage,Technology Upgrade,CRITICAL,4.1
+CarDekho,Pune,Harrier,Decent for its segment,Neutral,Pricing,Neutral,Mahindra XUV700,High Price,Feature Addition,CRITICAL,2.5
+CarDekho,Chennai,Safari,Poor touch response on screen,Negative,Technology & Infotainment,Negative,MG Hector,Infotainment Lag,Feature Addition,HIGH,1.5
+Twitter,Mumbai,Harrier,Features are decent,Neutral,Technology & Infotainment,Neutral,MG Hector,Service Delay,Service Expansion,MEDIUM,1.2
+Twitter,Pune,Safari,Not stylish compared to rivals,Negative,Design,Negative,MG Hector,Infotainment Lag,Service Expansion,HIGH,1.9
+ZigWheels,Mumbai,Safari,Strong and sturdy body,Positive,Build Quality,Positive,Mahindra XUV700,Low Mileage,Technology Upgrade,MEDIUM,2.6
+CarDekho,Bangalore,Safari,Service is average,Neutral,Service,Neutral,Mahindra XUV700,Low Mileage,Service Expansion,CRITICAL,1.3
+CarDekho,Hyderabad,Safari,Good after-sales experience,Positive,Service,Positive,Hyundai Alcazar,Spare Part Availability,Technology Upgrade,CRITICAL,4.1
+Twitter,Delhi,Harrier,Loaded with safety features,Positive,Safety,Positive,Kia Seltos,Infotainment Lag,Service Expansion,CRITICAL,2.5
+Twitter,Hyderabad,Harrier,Decent for its segment,Neutral,Pricing,Neutral,Hyundai Alcazar,High Price,Pricing Adjustment,LOW,3.3
+ZigWheels,Delhi,Safari,Expensive maintenance,Negative,Pricing,Negative,Mahindra XUV700,Service Delay,Comfort Upgrade,CRITICAL,2.2
+Twitter,Delhi,Harrier,Third-row comfort is poor,Negative,Comfort & Space,Negative,Kia Seltos,Service Delay,Service Expansion,CRITICAL,2.5
+ZigWheels,Chennai,Safari,Build quality is fine,Neutral,Build Quality,Neutral,Kia Seltos,High Price,Feature Addition,LOW,2.6
+Twitter,Lucknow,Harrier,Brakes lack confidence,Negative,Safety,Negative,Hyundai Alcazar,Spare Part Availability,Feature Addition,LOW,2.2
+ZigWheels,Kolkata,Harrier,Looks are average,Neutral,Design,Neutral,Kia Seltos,High Price,Service Expansion,MEDIUM,1
+CarDekho,Pune,Harrier,Loaded with modern features,Positive,Technology & Infotainment,Positive,Mahindra XUV700,Service Delay,Comfort Upgrade,LOW,2.7
+CarDekho,Pune,Safari,Build quality feels rock solid,Positive,Build Quality,Positive,Hyundai Alcazar,High Price,Technology Upgrade,LOW,2.6
+ZigWheels,Lucknow,Safari,Not stylish compared to rivals,Negative,Design,Negative,Hyundai Alcazar,High Price,Feature Addition,HIGH,1.6
+CarDekho,Mumbai,Harrier,Loaded with safety features,Positive,Safety,Positive,MG Hector,High Price,Service Expansion,CRITICAL,2.2
+Twitter,Pune,Harrier,Fit and finish not good,Negative,Build Quality,Negative,Kia Seltos,Spare Part Availability,Feature Addition,LOW,1.5
+Twitter,Mumbai,Harrier,Fit and finish not good,Negative,Build Quality,Negative,Mahindra XUV700,Spare Part Availability,Technology Upgrade,MEDIUM,2.2
+ZigWheels,Lucknow,Safari,Service delays are frustrating,Negative,Service,Negative,Mahindra XUV700,Infotainment Lag,Technology Upgrade,LOW,3.2
+ZigWheels,Mumbai,Safari,Acceleration is sluggish,Negative,Performance,Negative,Kia Seltos,Service Delay,Pricing Adjustment,CRITICAL,1.2
+ZigWheels,Lucknow,Harrier,Expensive maintenance,Negative,Pricing,Negative,MG Hector,Infotainment Lag,Pricing Adjustment,MEDIUM,2.8
+CarDekho,Pune,Safari,Great handling and smooth ride experience,Positive,Performance,Positive,Hyundai Creta,Low Mileage,Pricing Adjustment,LOW,3.2
+Twitter,Bangalore,Safari,Service delays are frustrating,Negative,Service,Negative,Hyundai Creta,Spare Part Availability,Feature Addition,LOW,1.7
+ZigWheels,Lucknow,Safari,Material quality feels cheap,Negative,Build Quality,Negative,Hyundai Creta,Service Delay,Comfort Upgrade,CRITICAL,3.3
+Twitter,Delhi,Harrier,Design feels outdated,Negative,Design,Negative,Hyundai Alcazar,Service Delay,Technology Upgrade,CRITICAL,2.4
+Twitter,Mumbai,Safari,Service is average,Neutral,Service,Neutral,Mahindra XUV700,Infotainment Lag,Comfort Upgrade,HIGH,1.9
+ZigWheels,Delhi,Safari,Modern design with stylish aesthetics,Positive,Design,Positive,Kia Seltos,High Price,Technology Upgrade,CRITICAL,4.3
+ZigWheels,Kolkata,Harrier,Average durability,Neutral,Build Quality,Neutral,Mahindra XUV700,High Price,Comfort Upgrade,HIGH,1.6
+Twitter,Delhi,Safari,Average durability,Neutral,Build Quality,Neutral,Kia Seltos,High Price,Service Expansion,MEDIUM,1.7
+ZigWheels,Mumbai,Safari,Powerful engine performance,Positive,Performance,Positive,Hyundai Creta,High Price,Technology Upgrade,HIGH,2.3
+Twitter,Bangalore,Harrier,Airbags missing in base variant,Negative,Safety,Negative,Kia Seltos,Infotainment Lag,Service Expansion,LOW,2.8
+ZigWheels,Delhi,Harrier,Third-row comfort is poor,Negative,Comfort & Space,Negative,MG Hector,Service Delay,Comfort Upgrade,MEDIUM,2.3
+Twitter,Chennai,Harrier,Service centers are supportive,Positive,Service,Positive,Hyundai Creta,Spare Part Availability,Comfort Upgrade,HIGH,4.2
+Twitter,Delhi,Safari,Brakes lack confidence,Negative,Safety,Negative,Mahindra XUV700,Spare Part Availability,Feature Addition,HIGH,3
+CarDekho,Bangalore,Safari,Material quality feels cheap,Negative,Build Quality,Negative,Hyundai Alcazar,Spare Part Availability,Pricing Adjustment,CRITICAL,3
+ZigWheels,Kolkata,Harrier,Technology is acceptable,Neutral,Technology & Infotainment,Neutral,MG Hector,Service Delay,Technology Upgrade,MEDIUM,1.8
+Twitter,Chennai,Safari,Brakes lack confidence,Negative,Safety,Negative,Hyundai Creta,Infotainment Lag,Service Expansion,CRITICAL,1.4
+ZigWheels,Chennai,Harrier,Stable and secure ride,Positive,Safety,Positive,Mahindra XUV700,Spare Part Availability,Technology Upgrade,HIGH,4.1
+CarDekho,Hyderabad,Harrier,Seats are not comfortable,Negative,Comfort & Space,Negative,Hyundai Creta,Infotainment Lag,Technology Upgrade,CRITICAL,1.8
+ZigWheels,Bangalore,Harrier,Engine is adequate,Neutral,Performance,Neutral,Kia Seltos,Low Mileage,Technology Upgrade,LOW,1.4
+ZigWheels,Bangalore,Harrier,Loaded with modern features,Positive,Technology & Infotainment,Positive,MG Hector,Spare Part Availability,Feature Addition,MEDIUM,3.4
+CarDekho,Lucknow,Harrier,Loaded with safety features,Positive,Safety,Positive,Mahindra XUV700,Service Delay,Technology Upgrade,LOW,2.9
+Twitter,Delhi,Harrier,Pricing is acceptable,Neutral,Pricing,Neutral,Hyundai Alcazar,Low Mileage,Service Expansion,HIGH,1.8
+ZigWheels,Pune,Safari,Modern design with stylish aesthetics,Positive,Design,Positive,Mahindra XUV700,Service Delay,Pricing Adjustment,CRITICAL,3.1
+Twitter,Lucknow,Harrier,Ample legroom and headroom,Positive,Comfort & Space,Positive,MG Hector,Low Mileage,Comfort Upgrade,MEDIUM,4.7
+CarDekho,Chennai,Harrier,Airbags missing in base variant,Negative,Safety,Negative,Mahindra XUV700,Spare Part Availability,Pricing Adjustment,HIGH,2.7
+CarDekho,Kolkata,Safari,Technology is acceptable,Neutral,Technology & Infotainment,Neutral,MG Hector,Service Delay,Comfort Upgrade,LOW,2.7
+ZigWheels,Mumbai,Harrier,Third-row comfort is poor,Negative,Comfort & Space,Negative,MG Hector,High Price,Feature Addition,HIGH,1.4
+ZigWheels,Chennai,Harrier,Not stylish compared to rivals,Negative,Design,Negative,Hyundai Alcazar,Low Mileage,Service Expansion,MEDIUM,2.8
+Twitter,Pune,Harrier,Service delays are frustrating,Negative,Service,Negative,Mahindra XUV700,Low Mileage,Technology Upgrade,LOW,2.8
+Twitter,Mumbai,Harrier,Spacious cabin and comfortable for long drives,Positive,Comfort & Space,Positive,Kia Seltos,Service Delay,Technology Upgrade,CRITICAL,3.2
+ZigWheels,Bangalore,Harrier,Expensive maintenance,Negative,Pricing,Negative,Hyundai Alcazar,Low Mileage,Feature Addition,LOW,3
+ZigWheels,Mumbai,Harrier,Poor touch response on screen,Negative,Technology & Infotainment,Negative,MG Hector,High Price,Comfort Upgrade,HIGH,3.3
+CarDekho,Delhi,Harrier,Safety is decent,Neutral,Safety,Neutral,Mahindra XUV700,Service Delay,Pricing Adjustment,CRITICAL,1.4
+ZigWheels,Chennai,Harrier,Spacious cabin and comfortable for long drives,Positive,Comfort & Space,Positive,MG Hector,Infotainment Lag,Pricing Adjustment,MEDIUM,4
+CarDekho,Pune,Safari,Loaded with modern features,Positive,Technology & Infotainment,Positive,MG Hector,Spare Part Availability,Feature Addition,HIGH,3.8
+ZigWheels,Pune,Safari,Comfort is decent,Neutral,Comfort & Space,Neutral,Hyundai Alcazar,Low Mileage,Technology Upgrade,MEDIUM,1.9
+Twitter,Chennai,Harrier,Looks are average,Neutral,Design,Neutral,Hyundai Creta,Spare Part Availability,Feature Addition,HIGH,1.7
+CarDekho,Mumbai,Harrier,Poor touch response on screen,Negative,Technology & Infotainment,Negative,Kia Seltos,Service Delay,Pricing Adjustment,HIGH,1.9
+ZigWheels,Hyderabad,Safari,Service is average,Neutral,Service,Neutral,Kia Seltos,Spare Part Availability,Comfort Upgrade,HIGH,1.4
+Twitter,Bangalore,Harrier,Poor touch response on screen,Negative,Technology & Infotainment,Negative,Hyundai Alcazar,Infotainment Lag,Comfort Upgrade,CRITICAL,1.6
+ZigWheels,Chennai,Harrier,Seats are not comfortable,Negative,Comfort & Space,Negative,Kia Seltos,High Price,Feature Addition,CRITICAL,3
+CarDekho,Mumbai,Safari,Not stylish compared to rivals,Negative,Design,Negative,MG Hector,Infotainment Lag,Comfort Upgrade,CRITICAL,1.5
+Twitter,Bangalore,Safari,Expensive maintenance,Negative,Pricing,Negative,Hyundai Alcazar,Spare Part Availability,Technology Upgrade,MEDIUM,1.1
+Twitter,Delhi,Safari,Performance is acceptable,Neutral,Performance,Neutral,Hyundai Creta,Service Delay,Technology Upgrade,HIGH,1.9
+CarDekho,Mumbai,Safari,Engine feels noisy,Negative,Performance,Negative,Kia Seltos,High Price,Comfort Upgrade,HIGH,3.2
+Twitter,Mumbai,Harrier,Expensive maintenance,Negative,Pricing,Negative,Kia Seltos,High Price,Comfort Upgrade,LOW,3
+CarDekho,Delhi,Safari,Powerful engine performance,Positive,Performance,Positive,MG Hector,Infotainment Lag,Service Expansion,CRITICAL,3.1
+Twitter,Pune,Safari,Great handling and smooth ride experience,Positive,Performance,Positive,Mahindra XUV700,Spare Part Availability,Technology Upgrade,LOW,4.7
+CarDekho,Chennai,Safari,Service centers are supportive,Positive,Service,Positive,Kia Seltos,Spare Part Availability,Technology Upgrade,HIGH,2.6
+Twitter,Hyderabad,Safari,Acceleration is sluggish,Negative,Performance,Negative,Hyundai Creta,Infotainment Lag,Comfort Upgrade,CRITICAL,2.4
+CarDekho,Chennai,Safari,Pricing is acceptable,Neutral,Pricing,Neutral,Hyundai Creta,Infotainment Lag,Service Expansion,LOW,2.5
+Twitter,Bangalore,Safari,Design feels outdated,Negative,Design,Negative,Mahindra XUV700,Spare Part Availability,Pricing Adjustment,LOW,3
+CarDekho,Hyderabad,Harrier,Great value for money,Positive,Pricing,Positive,Kia Seltos,High Price,Technology Upgrade,CRITICAL,3.2
+CarDekho,Delhi,Safari,Service is average,Neutral,Service,Neutral,Hyundai Creta,Infotainment Lag,Technology Upgrade,HIGH,1.6
+ZigWheels,Chennai,Harrier,Engine feels noisy,Negative,Performance,Negative,Kia Seltos,Infotainment Lag,Pricing Adjustment,CRITICAL,3
+Twitter,Hyderabad,Harrier,Safety is decent,Neutral,Safety,Neutral,Hyundai Alcazar,Low Mileage,Technology Upgrade,CRITICAL,1.9
+Twitter,Delhi,Safari,Service centers are supportive,Positive,Service,Positive,Hyundai Alcazar,Service Delay,Service Expansion,MEDIUM,3
+Twitter,Hyderabad,Harrier,Service centers are supportive,Positive,Service,Positive,MG Hector,High Price,Pricing Adjustment,HIGH,4.3
+ZigWheels,Bangalore,Harrier,Ample legroom and headroom,Positive,Comfort & Space,Positive,Hyundai Alcazar,Low Mileage,Feature Addition,MEDIUM,2.4
+Twitter,Chennai,Harrier,Average durability,Neutral,Build Quality,Neutral,Mahindra XUV700,Low Mileage,Technology Upgrade,CRITICAL,2.9
+CarDekho,Lucknow,Safari,Airbags missing in base variant,Negative,Safety,Negative,Hyundai Alcazar,Spare Part Availability,Feature Addition,LOW,3
+ZigWheels,Kolkata,Safari,Brakes lack confidence,Negative,Safety,Negative,Mahindra XUV700,Low Mileage,Service Expansion,MEDIUM,2.3
+Twitter,Chennai,Harrier,Fit and finish not good,Negative,Build Quality,Negative,MG Hector,Low Mileage,Comfort Upgrade,LOW,1
+Twitter,Bangalore,Harrier,Seats are not comfortable,Negative,Comfort & Space,Negative,Hyundai Creta,Service Delay,Feature Addition,MEDIUM,1.8
+Twitter,Pune,Safari,Brakes lack confidence,Negative,Safety,Negative,MG Hector,Service Delay,Technology Upgrade,MEDIUM,2.3
+Twitter,Chennai,Harrier,Comfort is decent,Neutral,Comfort & Space,Neutral,Mahindra XUV700,High Price,Service Expansion,CRITICAL,3.3
+Twitter,Chennai,Harrier,Design feels outdated,Negative,Design,Negative,Kia Seltos,High Price,Pricing Adjustment,LOW,2.9
+CarDekho,Hyderabad,Safari,Engine is adequate,Neutral,Performance,Neutral,Kia Seltos,Low Mileage,Service Expansion,HIGH,1.6
+CarDekho,Bangalore,Harrier,Spacious cabin and comfortable for long drives,Positive,Comfort & Space,Positive,Hyundai Creta,High Price,Technology Upgrade,MEDIUM,4.7
+ZigWheels,Bangalore,Harrier,Bold looks and premium cabin,Positive,Design,Positive,MG Hector,Low Mileage,Service Expansion,MEDIUM,2.3
+ZigWheels,Chennai,Safari,Great value for money,Positive,Pricing,Positive,Hyundai Alcazar,Low Mileage,Comfort Upgrade,MEDIUM,2.3
+ZigWheels,Hyderabad,Safari,Great handling and smooth ride experience,Positive,Performance,Positive,Mahindra XUV700,Low Mileage,Technology Upgrade,LOW,2.4
+Twitter,Hyderabad,Safari,Good after-sales experience,Positive,Service,Positive,Hyundai Alcazar,High Price,Feature Addition,CRITICAL,4.2
+ZigWheels,Bangalore,Harrier,Technology is acceptable,Neutral,Technology & Infotainment,Neutral,Hyundai Creta,Low Mileage,Feature Addition,LOW,1.8
+Twitter,Chennai,Safari,Spacious cabin and comfortable for long drives,Positive,Comfort & Space,Positive,Kia Seltos,Low Mileage,Service Expansion,HIGH,3.2
+Twitter,Bangalore,Harrier,Powerful engine performance,Positive,Performance,Positive,Hyundai Creta,Low Mileage,Pricing Adjustment,CRITICAL,2.3
+ZigWheels,Delhi,Safari,Support is okay,Neutral,Service,Neutral,Hyundai Creta,High Price,Service Expansion,LOW,2.9
+ZigWheels,Delhi,Safari,Adequate safety features,Neutral,Safety,Neutral,Hyundai Creta,High Price,Service Expansion,MEDIUM,2
+ZigWheels,Hyderabad,Harrier,Loaded with safety features,Positive,Safety,Positive,Hyundai Alcazar,Infotainment Lag,Comfort Upgrade,HIGH,4.3
+ZigWheels,Kolkata,Harrier,High price for features offered,Negative,Pricing,Negative,Mahindra XUV700,Spare Part Availability,Service Expansion,HIGH,2.6
+CarDekho,Hyderabad,Safari,Design feels outdated,Negative,Design,Negative,Hyundai Alcazar,Infotainment Lag,Service Expansion,LOW,1.3
+Twitter,Pune,Safari,Infotainment system is smooth,Positive,Technology & Infotainment,Positive,Hyundai Creta,Spare Part Availability,Pricing Adjustment,MEDIUM,2.2
+CarDekho,Hyderabad,Harrier,Brakes lack confidence,Negative,Safety,Negative,MG Hector,Service Delay,Service Expansion,MEDIUM,2.4
+Twitter,Mumbai,Safari,Not stylish compared to rivals,Negative,Design,Negative,Hyundai Creta,Service Delay,Pricing Adjustment,HIGH,2.8
+CarDekho,Lucknow,Harrier,Infotainment system lags,Negative,Technology & Infotainment,Negative,Hyundai Alcazar,Low Mileage,Feature Addition,CRITICAL,2.8
+CarDekho,Bangalore,Harrier,Loaded with modern features,Positive,Technology & Infotainment,Positive,Mahindra XUV700,Spare Part Availability,Comfort Upgrade,HIGH,3.4
+CarDekho,Bangalore,Safari,Stable and secure ride,Positive,Safety,Positive,MG Hector,Low Mileage,Service Expansion,CRITICAL,3.1
+Twitter,Delhi,Safari,Service is average,Neutral,Service,Neutral,Hyundai Creta,Infotainment Lag,Service Expansion,LOW,1.4
+ZigWheels,Kolkata,Harrier,Safety is decent,Neutral,Safety,Neutral,Kia Seltos,Infotainment Lag,Technology Upgrade,CRITICAL,2.2
+CarDekho,Chennai,Safari,Infotainment system lags,Negative,Technology & Infotainment,Negative,Hyundai Creta,Low Mileage,Comfort Upgrade,LOW,1.8
+Twitter,Kolkata,Safari,Material quality feels cheap,Negative,Build Quality,Negative,Mahindra XUV700,High Price,Feature Addition,CRITICAL,3
+CarDekho,Lucknow,Safari,Infotainment system lags,Negative,Technology & Infotainment,Negative,MG Hector,Spare Part Availability,Service Expansion,LOW,1.9
+CarDekho,Bangalore,Safari,Safety is decent,Neutral,Safety,Neutral,Mahindra XUV700,Service Delay,Technology Upgrade,MEDIUM,2.1
+CarDekho,Chennai,Harrier,Spacious cabin and comfortable for long drives,Positive,Comfort & Space,Positive,Hyundai Alcazar,Low Mileage,Comfort Upgrade,LOW,4
+CarDekho,Lucknow,Harrier,Fit and finish not good,Negative,Build Quality,Negative,Hyundai Creta,High Price,Pricing Adjustment,CRITICAL,2.6
+ZigWheels,Kolkata,Safari,Great road presence,Positive,Design,Positive,Mahindra XUV700,Infotainment Lag,Comfort Upgrade,HIGH,2.2
+Twitter,Mumbai,Harrier,Stable and secure ride,Positive,Safety,Positive,Mahindra XUV700,Low Mileage,Feature Addition,MEDIUM,4.3
+CarDekho,Chennai,Harrier,Service is average,Neutral,Service,Neutral,MG Hector,Low Mileage,Comfort Upgrade,MEDIUM,3.4
+ZigWheels,Pune,Safari,Service delays are frustrating,Negative,Service,Negative,Mahindra XUV700,Spare Part Availability,Feature Addition,HIGH,2.2
+Twitter,Chennai,Harrier,Performance is acceptable,Neutral,Performance,Neutral,MG Hector,Service Delay,Technology Upgrade,MEDIUM,2.3
+CarDekho,Lucknow,Harrier,Pricing is acceptable,Neutral,Pricing,Neutral,Hyundai Alcazar,Low Mileage,Service Expansion,LOW,3.4
+Twitter,Hyderabad,Safari,Looks are average,Neutral,Design,Neutral,Hyundai Creta,Infotainment Lag,Service Expansion,CRITICAL,2.3
+ZigWheels,Hyderabad,Harrier,Not stylish compared to rivals,Negative,Design,Negative,Hyundai Creta,High Price,Feature Addition,HIGH,1.5
+ZigWheels,Kolkata,Safari,Fit and finish not good,Negative,Build Quality,Negative,Hyundai Alcazar,Low Mileage,Service Expansion,MEDIUM,2.8
+CarDekho,Mumbai,Safari,Not stylish compared to rivals,Negative,Design,Negative,Hyundai Creta,Infotainment Lag,Comfort Upgrade,MEDIUM,1.2
+Twitter,Chennai,Harrier,Average durability,Neutral,Build Quality,Neutral,MG Hector,Low Mileage,Pricing Adjustment,HIGH,3.2
+ZigWheels,Hyderabad,Harrier,Poor touch response on screen,Negative,Technology & Infotainment,Negative,MG Hector,Spare Part Availability,Service Expansion,LOW,2.8
+ZigWheels,Bangalore,Safari,Great road presence,Positive,Design,Positive,Hyundai Alcazar,Infotainment Lag,Technology Upgrade,CRITICAL,3
+ZigWheels,Kolkata,Safari,Safety is decent,Neutral,Safety,Neutral,Hyundai Alcazar,Spare Part Availability,Feature Addition,MEDIUM,1.5
+CarDekho,Kolkata,Harrier,Great road presence,Positive,Design,Positive,Kia Seltos,Low Mileage,Service Expansion,HIGH,3.6
+ZigWheels,Bangalore,Harrier,Powerful engine performance,Positive,Performance,Positive,Hyundai Creta,High Price,Feature Addition,HIGH,4.6
+Twitter,Mumbai,Harrier,Service delays are frustrating,Negative,Service,Negative,Mahindra XUV700,High Price,Pricing Adjustment,HIGH,1.6
+CarDekho,Pune,Safari,Great road presence,Positive,Design,Positive,Kia Seltos,Low Mileage,Technology Upgrade,MEDIUM,3.8
+CarDekho,Pune,Harrier,Support is okay,Neutral,Service,Neutral,MG Hector,Low Mileage,Technology Upgrade,MEDIUM,1.4
+Twitter,Kolkata,Safari,Third-row comfort is poor,Negative,Comfort & Space,Negative,Hyundai Creta,Spare Part Availability,Service Expansion,MEDIUM,2.8
+Twitter,Mumbai,Harrier,Poor touch response on screen,Negative,Technology & Infotainment,Negative,MG Hector,Low Mileage,Feature Addition,HIGH,3
+ZigWheels,Lucknow,Safari,Performance is acceptable,Neutral,Performance,Neutral,Mahindra XUV700,High Price,Technology Upgrade,LOW,2
+Twitter,Chennai,Safari,Airbags missing in base variant,Negative,Safety,Negative,Hyundai Creta,Low Mileage,Comfort Upgrade,MEDIUM,1.9
+Twitter,Mumbai,Safari,Decent for its segment,Neutral,Pricing,Neutral,Mahindra XUV700,High Price,Feature Addition,CRITICAL,1.2
+CarDekho,Delhi,Harrier,Design is acceptable,Neutral,Design,Neutral,Mahindra XUV700,High Price,Comfort Upgrade,HIGH,1.4
+ZigWheels,Mumbai,Safari,Pricing is acceptable,Neutral,Pricing,Neutral,Mahindra XUV700,Infotainment Lag,Pricing Adjustment,LOW,2
+CarDekho,Hyderabad,Safari,Service centers are supportive,Positive,Service,Positive,Hyundai Creta,High Price,Technology Upgrade,LOW,3.4
+Twitter,Hyderabad,Safari,Stable and secure ride,Positive,Safety,Positive,MG Hector,Infotainment Lag,Technology Upgrade,LOW,3.8
+Twitter,Delhi,Harrier,Support is okay,Neutral,Service,Neutral,Hyundai Alcazar,Spare Part Availability,Service Expansion,CRITICAL,1.6
+ZigWheels,Delhi,Safari,Infotainment system is smooth,Positive,Technology & Infotainment,Positive,Hyundai Creta,High Price,Technology Upgrade,MEDIUM,4.5
+ZigWheels,Kolkata,Safari,Stable and secure ride,Positive,Safety,Positive,Kia Seltos,Service Delay,Technology Upgrade,MEDIUM,3.7
+Twitter,Pune,Harrier,Third-row comfort is poor,Negative,Comfort & Space,Negative,Mahindra XUV700,High Price,Technology Upgrade,CRITICAL,1.7
+ZigWheels,Chennai,Safari,Material quality feels cheap,Negative,Build Quality,Negative,Hyundai Alcazar,High Price,Technology Upgrade,HIGH,3
+Twitter,Chennai,Harrier,Infotainment system is smooth,Positive,Technology & Infotainment,Positive,Mahindra XUV700,Infotainment Lag,Pricing Adjustment,HIGH,3.3
+CarDekho,Pune,Safari,Stable and secure ride,Positive,Safety,Positive,Hyundai Creta,Spare Part Availability,Comfort Upgrade,LOW,3.2
+CarDekho,Pune,Harrier,Seats are not comfortable,Negative,Comfort & Space,Negative,Kia Seltos,Spare Part Availability,Pricing Adjustment,HIGH,3
+CarDekho,Hyderabad,Safari,Material quality feels cheap,Negative,Build Quality,Negative,MG Hector,Low Mileage,Technology Upgrade,MEDIUM,3.1
+CarDekho,Mumbai,Safari,Support is okay,Neutral,Service,Neutral,Kia Seltos,Service Delay,Comfort Upgrade,MEDIUM,1.1
+ZigWheels,Hyderabad,Harrier,Technology is acceptable,Neutral,Technology & Infotainment,Neutral,Hyundai Creta,Spare Part Availability,Feature Addition,MEDIUM,2.9
+ZigWheels,Lucknow,Harrier,Build quality feels rock solid,Positive,Build Quality,Positive,Hyundai Alcazar,Low Mileage,Technology Upgrade,HIGH,2.3
+ZigWheels,Hyderabad,Safari,Build quality is fine,Neutral,Build Quality,Neutral,Kia Seltos,Low Mileage,Service Expansion,LOW,1.3
+ZigWheels,Hyderabad,Harrier,Infotainment system is smooth,Positive,Technology & Infotainment,Positive,Hyundai Alcazar,Spare Part Availability,Pricing Adjustment,CRITICAL,4.2
+ZigWheels,Hyderabad,Safari,Acceleration is sluggish,Negative,Performance,Negative,MG Hector,Service Delay,Feature Addition,MEDIUM,2.9
+ZigWheels,Pune,Harrier,Bold looks and premium cabin,Positive,Design,Positive,Hyundai Alcazar,Service Delay,Feature Addition,MEDIUM,3.1
+CarDekho,Bangalore,Harrier,Third-row comfort is poor,Negative,Comfort & Space,Negative,Mahindra XUV700,Spare Part Availability,Pricing Adjustment,CRITICAL,2.7
+ZigWheels,Lucknow,Harrier,Spacious cabin and comfortable for long drives,Positive,Comfort & Space,Positive,Hyundai Alcazar,High Price,Pricing Adjustment,HIGH,2.4
+CarDekho,Mumbai,Safari,Affordable compared to rivals,Positive,Pricing,Positive,MG Hector,High Price,Service Expansion,LOW,2.6
+CarDekho,Chennai,Harrier,Ample legroom and headroom,Positive,Comfort & Space,Positive,Hyundai Creta,High Price,Pricing Adjustment,HIGH,2.7
+Twitter,Kolkata,Harrier,Comfort is decent,Neutral,Comfort & Space,Neutral,MG Hector,Low Mileage,Comfort Upgrade,MEDIUM,1.5
+Twitter,Mumbai,Safari,Features are decent,Neutral,Technology & Infotainment,Neutral,Hyundai Alcazar,Spare Part Availability,Pricing Adjustment,HIGH,1.5
+ZigWheels,Chennai,Harrier,Build quality is fine,Neutral,Build Quality,Neutral,Hyundai Creta,High Price,Feature Addition,LOW,2.7
+CarDekho,Chennai,Safari,Stable and secure ride,Positive,Safety,Positive,MG Hector,Infotainment Lag,Comfort Upgrade,MEDIUM,2.6
+CarDekho,Bangalore,Harrier,Fit and finish not good,Negative,Build Quality,Negative,Hyundai Alcazar,Infotainment Lag,Technology Upgrade,CRITICAL,3.4
+Twitter,Hyderabad,Safari,Comfort is decent,Neutral,Comfort & Space,Neutral,Mahindra XUV700,Low Mileage,Service Expansion,MEDIUM,1.5
+Twitter,Chennai,Harrier,Not stylish compared to rivals,Negative,Design,Negative,Kia Seltos,Infotainment Lag,Comfort Upgrade,HIGH,2.6
+ZigWheels,Bangalore,Harrier,Powerful engine performance,Positive,Performance,Positive,MG Hector,Low Mileage,Feature Addition,LOW,3.1
+CarDekho,Kolkata,Safari,Not stylish compared to rivals,Negative,Design,Negative,MG Hector,Low Mileage,Technology Upgrade,HIGH,1.8
+ZigWheels,Delhi,Harrier,Not stylish compared to rivals,Negative,Design,Negative,MG Hector,Service Delay,Technology Upgrade,HIGH,2.1
+Twitter,Mumbai,Safari,Average durability,Neutral,Build Quality,Neutral,MG Hector,Spare Part Availability,Service Expansion,HIGH,2.6
+CarDekho,Mumbai,Safari,Infotainment system lags,Negative,Technology & Infotainment,Negative,MG Hector,High Price,Feature Addition,LOW,1.7
+Twitter,Delhi,Harrier,Great road presence,Positive,Design,Positive,Kia Seltos,Low Mileage,Pricing Adjustment,HIGH,4.7
+Twitter,Pune,Safari,Airbags missing in base variant,Negative,Safety,Negative,Kia Seltos,High Price,Feature Addition,CRITICAL,1.5
+CarDekho,Kolkata,Harrier,Design feels outdated,Negative,Design,Negative,Kia Seltos,Low Mileage,Feature Addition,LOW,1.5
+ZigWheels,Delhi,Harrier,Material quality feels cheap,Negative,Build Quality,Negative,MG Hector,Low Mileage,Service Expansion,MEDIUM,2.8
+Twitter,Bangalore,Safari,Engine feels noisy,Negative,Performance,Negative,Mahindra XUV700,High Price,Pricing Adjustment,MEDIUM,3
+Twitter,Lucknow,Safari,Stable and secure ride,Positive,Safety,Positive,Hyundai Creta,High Price,Feature Addition,LOW,4.6
+ZigWheels,Delhi,Safari,Infotainment system lags,Negative,Technology & Infotainment,Negative,Mahindra XUV700,Infotainment Lag,Pricing Adjustment,LOW,2.8
+Twitter,Mumbai,Harrier,Support is okay,Neutral,Service,Neutral,MG Hector,Service Delay,Feature Addition,HIGH,2.3
+CarDekho,Bangalore,Safari,Spacious cabin and comfortable for long drives,Positive,Comfort & Space,Positive,MG Hector,High Price,Feature Addition,LOW,4.8
+CarDekho,Lucknow,Safari,Affordable compared to rivals,Positive,Pricing,Positive,Mahindra XUV700,High Price,Technology Upgrade,CRITICAL,3.7
+CarDekho,Kolkata,Harrier,Adequate safety features,Neutral,Safety,Neutral,Mahindra XUV700,Service Delay,Comfort Upgrade,LOW,1.6
+CarDekho,Delhi,Harrier,Decent for its segment,Neutral,Pricing,Neutral,Mahindra XUV700,Infotainment Lag,Technology Upgrade,MEDIUM,2.6
+Twitter,Bangalore,Harrier,Service centers are supportive,Positive,Service,Positive,Kia Seltos,High Price,Service Expansion,LOW,4.6
+ZigWheels,Delhi,Harrier,Loaded with safety features,Positive,Safety,Positive,MG Hector,High Price,Pricing Adjustment,LOW,2.1
+Twitter,Kolkata,Safari,Build quality is fine,Neutral,Build Quality,Neutral,Mahindra XUV700,Low Mileage,Comfort Upgrade,HIGH,2.3
+Twitter,Delhi,Safari,Looks are average,Neutral,Design,Neutral,Mahindra XUV700,Low Mileage,Pricing Adjustment,HIGH,1.9
+Twitter,Kolkata,Safari,Build quality is fine,Neutral,Build Quality,Neutral,Mahindra XUV700,Infotainment Lag,Service Expansion,CRITICAL,3
+Twitter,Lucknow,Harrier,Average durability,Neutral,Build Quality,Neutral,Mahindra XUV700,Spare Part Availability,Technology Upgrade,CRITICAL,1.8
+CarDekho,Lucknow,Harrier,Great value for money,Positive,Pricing,Positive,Kia Seltos,High Price,Pricing Adjustment,CRITICAL,4
+ZigWheels,Pune,Safari,Support is okay,Neutral,Service,Neutral,Hyundai Creta,Service Delay,Technology Upgrade,MEDIUM,2.6
+Twitter,Lucknow,Harrier,Material quality feels cheap,Negative,Build Quality,Negative,Hyundai Alcazar,Infotainment Lag,Pricing Adjustment,MEDIUM,2.3
+CarDekho,Pune,Harrier,After sales service is disappointing,Negative,Service,Negative,MG Hector,Spare Part Availability,Service Expansion,LOW,2.3
+CarDekho,Bangalore,Harrier,Powerful engine performance,Positive,Performance,Positive,MG Hector,Spare Part Availability,Feature Addition,LOW,2.4
+ZigWheels,Bangalore,Safari,Adequate safety features,Neutral,Safety,Neutral,Hyundai Alcazar,Spare Part Availability,Technology Upgrade,CRITICAL,2.3
+CarDekho,Delhi,Safari,Acceleration is sluggish,Negative,Performance,Negative,Hyundai Alcazar,Service Delay,Feature Addition,MEDIUM,2.9
+ZigWheels,Mumbai,Harrier,Loaded with modern features,Positive,Technology & Infotainment,Positive,Mahindra XUV700,Spare Part Availability,Pricing Adjustment,MEDIUM,4.9
+CarDekho,Pune,Harrier,Infotainment system is smooth,Positive,Technology & Infotainment,Positive,Kia Seltos,Low Mileage,Feature Addition,MEDIUM,2.7
+CarDekho,Mumbai,Harrier,Poor touch response on screen,Negative,Technology & Infotainment,Negative,Hyundai Creta,Spare Part Availability,Technology Upgrade,HIGH,1.6
+ZigWheels,Chennai,Harrier,Stable and secure ride,Positive,Safety,Positive,MG Hector,Spare Part Availability,Service Expansion,CRITICAL,4.4
+Twitter,Kolkata,Safari,Engine is adequate,Neutral,Performance,Neutral,Mahindra XUV700,Infotainment Lag,Comfort Upgrade,MEDIUM,2.7
+CarDekho,Kolkata,Safari,Third-row comfort is poor,Negative,Comfort & Space,Negative,Hyundai Creta,Infotainment Lag,Technology Upgrade,LOW,2.1
+Twitter,Chennai,Safari,Airbags missing in base variant,Negative,Safety,Negative,Hyundai Alcazar,Low Mileage,Feature Addition,CRITICAL,3.4
+ZigWheels,Delhi,Safari,Acceleration is sluggish,Negative,Performance,Negative,Kia Seltos,Low Mileage,Service Expansion,HIGH,1.5
+CarDekho,Kolkata,Safari,Technology is acceptable,Neutral,Technology & Infotainment,Neutral,Hyundai Creta,Spare Part Availability,Service Expansion,MEDIUM,2.1
+Twitter,Lucknow,Safari,Stable and secure ride,Positive,Safety,Positive,Hyundai Creta,Spare Part Availability,Feature Addition,LOW,4.7
+Twitter,Hyderabad,Harrier,Infotainment system lags,Negative,Technology & Infotainment,Negative,Mahindra XUV700,Infotainment Lag,Comfort Upgrade,MEDIUM,2.7
+Twitter,Chennai,Harrier,Great value for money,Positive,Pricing,Positive,Mahindra XUV700,High Price,Technology Upgrade,CRITICAL,4.7
+CarDekho,Pune,Safari,High price for features offered,Negative,Pricing,Negative,Hyundai Alcazar,Infotainment Lag,Pricing Adjustment,MEDIUM,1.9
+Twitter,Mumbai,Safari,Design feels outdated,Negative,Design,Negative,Mahindra XUV700,Service Delay,Service Expansion,HIGH,2.6
+CarDekho,Hyderabad,Harrier,Infotainment system is smooth,Positive,Technology & Infotainment,Positive,Kia Seltos,Spare Part Availability,Service Expansion,HIGH,2
+Twitter,Kolkata,Harrier,Airbags missing in base variant,Negative,Safety,Negative,Hyundai Creta,Spare Part Availability,Service Expansion,HIGH,1.1
+Twitter,Hyderabad,Safari,Loaded with modern features,Positive,Technology & Infotainment,Positive,Hyundai Alcazar,Infotainment Lag,Pricing Adjustment,CRITICAL,3.3
+CarDekho,Bangalore,Safari,Affordable compared to rivals,Positive,Pricing,Positive,Mahindra XUV700,Spare Part Availability,Technology Upgrade,MEDIUM,3.8
+ZigWheels,Pune,Harrier,Infotainment system is smooth,Positive,Technology & Infotainment,Positive,Kia Seltos,Infotainment Lag,Comfort Upgrade,HIGH,3.7
+Twitter,Delhi,Safari,Bold looks and premium cabin,Positive,Design,Positive,Hyundai Alcazar,Service Delay,Technology Upgrade,HIGH,4.1
+Twitter,Bangalore,Harrier,Build quality feels rock solid,Positive,Build Quality,Positive,Hyundai Alcazar,Service Delay,Pricing Adjustment,LOW,4
+Twitter,Kolkata,Safari,Ample legroom and headroom,Positive,Comfort & Space,Positive,Hyundai Creta,High Price,Comfort Upgrade,MEDIUM,2.5
+Twitter,Delhi,Harrier,Third-row comfort is poor,Negative,Comfort & Space,Negative,Hyundai Alcazar,High Price,Pricing Adjustment,HIGH,3.4
+Twitter,Bangalore,Safari,Not stylish compared to rivals,Negative,Design,Negative,Hyundai Creta,Service Delay,Service Expansion,CRITICAL,1.2
+Twitter,Lucknow,Harrier,Adequate safety features,Neutral,Safety,Neutral,Kia Seltos,Low Mileage,Technology Upgrade,MEDIUM,3.4
+CarDekho,Bangalore,Harrier,Decent for its segment,Neutral,Pricing,Neutral,Hyundai Alcazar,Infotainment Lag,Service Expansion,MEDIUM,1.6
+ZigWheels,Mumbai,Safari,Adequate space for daily use,Neutral,Comfort & Space,Neutral,Mahindra XUV700,Service Delay,Pricing Adjustment,MEDIUM,3.3
+ZigWheels,Bangalore,Safari,Modern design with stylish aesthetics,Positive,Design,Positive,Mahindra XUV700,Low Mileage,Technology Upgrade,CRITICAL,2.7
+ZigWheels,Bangalore,Harrier,Good after-sales experience,Positive,Service,Positive,Hyundai Alcazar,Service Delay,Pricing Adjustment,CRITICAL,2.4
+Twitter,Delhi,Harrier,Great road presence,Positive,Design,Positive,Hyundai Alcazar,Service Delay,Feature Addition,HIGH,4.2
+Twitter,Delhi,Safari,Looks are average,Neutral,Design,Neutral,Hyundai Alcazar,Infotainment Lag,Technology Upgrade,LOW,2.3
+Twitter,Bangalore,Harrier,Adequate space for daily use,Neutral,Comfort & Space,Neutral,Hyundai Alcazar,Low Mileage,Technology Upgrade,CRITICAL,1.1
+Twitter,Chennai,Safari,Ample legroom and headroom,Positive,Comfort & Space,Positive,Kia Seltos,High Price,Service Expansion,LOW,3.6
+CarDekho,Delhi,Safari,Infotainment system lags,Negative,Technology & Infotainment,Negative,Hyundai Creta,High Price,Comfort Upgrade,LOW,1.1
+CarDekho,Delhi,Harrier,Loaded with safety features,Positive,Safety,Positive,Hyundai Alcazar,Infotainment Lag,Comfort Upgrade,HIGH,3.6
+CarDekho,Chennai,Safari,Ample legroom and headroom,Positive,Comfort & Space,Positive,Hyundai Creta,Service Delay,Feature Addition,LOW,2.3
+CarDekho,Lucknow,Harrier,Engine is adequate,Neutral,Performance,Neutral,Mahindra XUV700,Spare Part Availability,Feature Addition,MEDIUM,1.1
+ZigWheels,Pune,Harrier,Ample legroom and headroom,Positive,Comfort & Space,Positive,Kia Seltos,High Price,Technology Upgrade,CRITICAL,2.4
+Twitter,Kolkata,Harrier,Airbags missing in base variant,Negative,Safety,Negative,Hyundai Alcazar,Low Mileage,Pricing Adjustment,CRITICAL,2
+Twitter,Kolkata,Harrier,Loaded with safety features,Positive,Safety,Positive,Mahindra XUV700,High Price,Technology Upgrade,CRITICAL,2.1
+CarDekho,Mumbai,Safari,Affordable compared to rivals,Positive,Pricing,Positive,Kia Seltos,Spare Part Availability,Technology Upgrade,MEDIUM,3.7
+Twitter,Hyderabad,Harrier,Design feels outdated,Negative,Design,Negative,MG Hector,Infotainment Lag,Comfort Upgrade,MEDIUM,2.7
+Twitter,Kolkata,Harrier,Great value for money,Positive,Pricing,Positive,MG Hector,Service Delay,Technology Upgrade,CRITICAL,3.8
+Twitter,Pune,Harrier,After sales service is disappointing,Negative,Service,Negative,Hyundai Creta,Low Mileage,Technology Upgrade,MEDIUM,3
+Twitter,Mumbai,Harrier,Infotainment system lags,Negative,Technology & Infotainment,Negative,Kia Seltos,Low Mileage,Comfort Upgrade,CRITICAL,2.5
+Twitter,Mumbai,Harrier,Build quality feels rock solid,Positive,Build Quality,Positive,Hyundai Creta,Spare Part Availability,Technology Upgrade,LOW,4.9
+CarDekho,Mumbai,Safari,Pricing is acceptable,Neutral,Pricing,Neutral,Hyundai Alcazar,High Price,Pricing Adjustment,MEDIUM,2.8
+CarDekho,Kolkata,Harrier,Expensive maintenance,Negative,Pricing,Negative,Hyundai Alcazar,Service Delay,Comfort Upgrade,MEDIUM,3.5
+CarDekho,Lucknow,Safari,Build quality is fine,Neutral,Build Quality,Neutral,Mahindra XUV700,High Price,Technology Upgrade,CRITICAL,1
+ZigWheels,Kolkata,Safari,Performance is acceptable,Neutral,Performance,Neutral,Hyundai Alcazar,High Price,Pricing Adjustment,CRITICAL,2.9
+CarDekho,Pune,Safari,Powerful engine performance,Positive,Performance,Positive,Mahindra XUV700,Spare Part Availability,Service Expansion,HIGH,2.5
+ZigWheels,Chennai,Harrier,Adequate space for daily use,Neutral,Comfort & Space,Neutral,Hyundai Alcazar,Low Mileage,Pricing Adjustment,CRITICAL,1.2
+Twitter,Hyderabad,Harrier,Great value for money,Positive,Pricing,Positive,Hyundai Alcazar,Low Mileage,Pricing Adjustment,LOW,3.3
+ZigWheels,Hyderabad,Safari,Stable and secure ride,Positive,Safety,Positive,Hyundai Alcazar,Low Mileage,Feature Addition,LOW,4.4

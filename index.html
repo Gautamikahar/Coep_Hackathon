@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tata Motors Sentiment Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-chart-matrix@1.2.0"></script>
+</head>
+
+<body>
+  <header>
+    <h1>Tata Motors Sentiment & Sales Insights</h1>
+    <p>Social Media Analytics → Insights → Strategy</p>
+  </header>
+
+  <main>
+    <!-- Filters -->
+    <section class="filters">
+      <h2>Filters</h2>
+      <label for="vehicleFilter">Vehicle:</label>
+      <select id="vehicleFilter">
+        <option value="">All</option>
+        <option value="Nexon">Nexon</option>
+        <option value="Safari">Safari</option>
+        <option value="Harrier">Harrier</option>
+      </select>
+
+      <label for="sentimentFilter">Sentiment:</label>
+      <select id="sentimentFilter">
+        <option value="">All</option>
+        <option value="Positive">Positive</option>
+        <option value="Negative">Negative</option>
+        <option value="Neutral">Neutral</option>
+      </select>
+
+      <button id="applyFiltersBtn">Apply Filters</button>
+    </section>
+
+    <!-- KPI Cards -->
+    <section class="kpi-cards">
+      <div class="kpi" id="totalReviews">Total Reviews: --</div>
+      <div class="kpi" id="avgRating">Avg Rating: --</div>
+      <div class="kpi" id="posRate">Positive: --%</div>
+      <div class="kpi" id="negRate">Negative: --%</div>
+      <div class="kpi" id="growthPotential">Sales Growth Potential: --%</div>
+    </section>
+
+    <!-- Charts -->
+    <section>
+      <h2>Overall Sentiment</h2>
+      <div class="chart-container"><canvas id="sentimentChart"></canvas></div>
+    </section>
+
+    <section>
+      <h2>Feature Sentiment</h2>
+      <div class="chart-container"><canvas id="featureChart"></canvas></div>
+    </section>
+
+    <section>
+      <h2>Competitor Mentions</h2>
+      <div class="chart-container"><canvas id="competitorChart"></canvas></div>
+    </section>
+
+    <section>
+      <h2>Average Ratings by Vehicle</h2>
+      <div class="chart-container"><canvas id="ratingChart"></canvas></div>
+    </section>
+
+    <!-- Recommendations -->
+    <section class="recommendations">
+      <h2>Actionable Recommendations</h2>
+      <div id="recContainer"></div>
+    </section>
+
+    <!-- Summary -->
+    <section class="summary-box">
+      <h2>Summary</h2>
+      <p id="aiSummary">Loading insights...</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Tata Motors Sentiment Analytics | Hackathon Prototype</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
